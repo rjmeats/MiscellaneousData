@@ -1,0 +1,28 @@
+ExtendedUKGeneralElection2017.csv - produced by running GeneralElection.java program running against UKGeneralElection2017.csv in the src_data area
+(which is a manually adjusted version of data originally downloaded from the Electoral Commission web site: 
+https://www.electoralcommission.org.uk/our-work/our-research/electoral-data/electoral-data-files-and-reports)
+
+Westminster_Parliamentary_Constituencies_December_2016_Full_Extent_Boundaries_in_Great_Britain.csv - consitutency location info downloaded from
+http://geoportal.statistics.gov.uk/datasets/deeb99fdf09949bc8ed4dc95c80da279_1. Contains latitude and longitude, and area/border length per consituency.
+Does not cover Northern Ireland
+
+NI_Boundaries.csv - manually generated file of Northern Ireland consituency approx latitude and longitude in same format as previous file, to allow consituency
+position to be plotable for all UK consituencies.
+
+Westminster_Parliamentary_Constituencies_December_2016_Full_Extent_Boundaries_in_Great_Britain.zip - consituency shape file ZIP, also downloaded from
+http://geoportal.statistics.gov.uk/datasets/deeb99fdf09949bc8ed4dc95c80da279_1. Contains polygon info for each English, Scottish and Welsh consituency. No
+data for Northern Ireland.
+
+--------------
+
+Licence info for the geoportal.statistics.gov.uk download files:
+
+- Contains National Statistics data © Crown copyright and database right
+- Contains OS data © Crown copyright and database right
+- see https://www.ons.gov.uk/methodology/geography/licences
+
+--------------
+
+Constituency ID info in the different files is joinable via the 'ONS Code' field and the 'pcon16cd' field.
+
+
