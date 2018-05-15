@@ -33,7 +33,7 @@ public class WorldCup2018 {
 		String body = fixtures.stream().map(f -> f.asCSV()).collect(Collectors.joining(nl));
 
 		// Write to CSV file
-		String outputFile = filePath.replaceAll(".txt", ".csv");
+		String outputFile = filePath.replaceAll(".txt", ".csv").replaceAll("src_data", "output_data");
 		if(outputFile.equalsIgnoreCase(filePath)) {
 			System.err.println("No output file produced - name clash with existing file");
 			return;
