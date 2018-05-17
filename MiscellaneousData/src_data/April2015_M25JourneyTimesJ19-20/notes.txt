@@ -1,0 +1,5 @@
+M25 journey time data from http://tris.highwaysengland.co.uk/detail/journeytimedata
+
+For J20 to 19. Downloaded M25 anti-clockwise between J20 and J19 mainCarriageway 199004302.zip which contained a CSV file. Covers April 2015 in approximately 15 minute intervals, totalling 2860 records.
+
+Some explanation of fields in http://data.highways.gov.uk/ha-journey-times/TRIS+-+User+Guide+r3.pdf but not fully illuminating.
