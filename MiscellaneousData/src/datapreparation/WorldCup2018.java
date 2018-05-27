@@ -1,10 +1,7 @@
 package datapreparation;
 
-import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.nio.charset.StandardCharsets;
-import java.nio.file.Files;
 import java.util.ArrayList;
 import java.util.Formatter;
 import java.util.List;
@@ -12,6 +9,8 @@ import java.util.Scanner;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 import java.util.regex.Matcher;
+
+import utils.*;
 
 public class WorldCup2018 {
 
@@ -40,7 +39,7 @@ public class WorldCup2018 {
 		}
 		else {
 			String csvOutput = header + nl + body;
-			writeFile(outputFile, csvOutput);			
+			FileWriter.writeUTF8File(outputFile, csvOutput);			
 		}
 	}
 	
@@ -92,16 +91,6 @@ public class WorldCup2018 {
 		return fixtures;
 	}
 	
-	private static void writeFile(String filename, String s) {
-	    try (BufferedWriter bw = Files.newBufferedWriter(new File(filename).toPath(), StandardCharsets.UTF_8)) {
-			bw.write(s, 0, s.length());
-			bw.newLine();
-			System.out.println("Produced output file " + filename);
-	    }
-	    catch(Exception e) {
-	        System.err.println("Failed to write to: " + filename + " " + e.getMessage());
-	    }
-	}
 }
 
 enum Round {
@@ -485,34 +474,17 @@ class Fixture {
 	}
 	
 	String asCSV() {
-		return protect(m_round.name()) + comma +
+		return CSV.protect(m_round.name()) + comma +
 						m_groupID + comma +
 						((m_round == Round.Group) ? m_round + " " + m_groupID : m_round) + comma +
 						m_dayOfWeek + comma +
 						getDate() + comma +
 						getTimeBST() + comma +
 						((m_round == Round.Group) ? "Y" : "N") + comma +
-						protect(m_team1) + comma + 
-						protect(m_team2) + comma + 
-						protect(m_location) + comma +
-						protect(m_matchID);
+						CSV.protect(m_team1) + comma + 
+						CSV.protect(m_team2) + comma + 
+						CSV.protect(m_location) + comma +
+						CSV.protect(m_matchID);
 	}
 	
-	static char dq = '\"';
-	static String protect(String in) {
-		String out = in.trim();
-		if(out.indexOf(dq) != -1) {
-			// OK if just at start and end, otherwise trouble
-			if(out.charAt(0) == dq && out.charAt(out.length()-1) == dq && out.replaceAll(dq+"", "").length() == out.length()-2) {
-				// Retain double quotes
-			}
-			else {
-				System.err.println("Internal double quote in field: " + in);
-			}				
-		}
-		else if(in.indexOf(",") != -1) {
-			out = dq + in + dq;
-		}
-		return out;
-	}
 }
