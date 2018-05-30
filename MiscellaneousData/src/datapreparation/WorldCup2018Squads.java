@@ -165,7 +165,7 @@ class FileReader {
 		m_positionNameMap = new HashMap<>();
 		m_positionNameMap.put("Goalkeepers", Position.Goalkeeper);
 		m_positionNameMap.put("Defenders", Position.Defender);
-		m_positionNameMap.put("Midfielders", Position.Midfield);
+		m_positionNameMap.put("Midfielders", Position.Midfielder);
 		m_positionNameMap.put("Forwards", Position.Forward);
 		m_positionNameMap.put("Strikers", Position.Forward);
 		m_positionNameMap.put("Attackers", Position.Forward);
@@ -494,7 +494,7 @@ enum TeamName {
 	Belgium,
 	Panama,
 	Tunisia,
-	England("England", "United Kingdom"),		// NB Tableau doesn't know England as a country
+	England("England", "UK"),		// NB Tableau doesn't know England as a country
 	Poland,
 	Senegal,
 	Colombia,
@@ -519,50 +519,50 @@ enum TeamName {
 }
 
 enum Position {
-	Goalkeeper, Defender, Midfield, Forward;
+	Goalkeeper, Defender, Midfielder, Forward;
 }
 
 enum Club {
 
-	Arsenal("London", "United Kingdom"),
-	Aston_Villa("Birmingham", "United Kingdom"),
-	Birmingham_City("United Kingdom"),
-	Brentford("London", "United Kingdom"),
-	Brighton("United Kingdom"),
-	Bristol_City("United Kingdom"),
-	Burnley("United Kingdom"),
-	Cardiff_City("United Kingdom"),
-	Chelsea("London", "United Kingdom"),
-	Crystal_Palace("London", "United Kingdom"),
-	Everton("Liverpool", "United Kingdom"),
-	Huddersfield("United Kingdom"),
-	Hull_City("United Kingdom"),
-	Ipswich("United Kingdom"),
-	Leicester("United Kingdom"),
-	Leeds_United("United Kingdom"),
-	Liverpool("United Kingdom"),
-	Manchester_City("United Kingdom"),
-	Manchester_United("United Kingdom"),
-	Millwall("London", "United Kingdom"),
-	Newcastle_United("Newcastle", "United Kingdom"),
-	Nottingham_Forest("Nottingham", "United Kingdom"),
-	QPR("London", "United Kingdom"),
-	Reading("United Kingdom"),
-	Southampton("United Kingdom"),
-	Swansea_City("United Kingdom"),
-	Stoke_City("Stoke-on-Trent", "United Kingdom"),
-	Sunderland("United Kingdom"),
-	Tottenham_Hotspur("London", "United Kingdom"),
-	Watford("United Kingdom"),
-	West_Brom("West Bromwich", "United Kingdom"),
-	West_Ham("London", "United Kingdom"),
-	Wigan_Athletic("United Kingdom"),
-	Wolves("Wolverhampton", "United Kingdom"),
+	Arsenal("London", "UK"),
+	Aston_Villa("Birmingham", "UK"),
+	Birmingham_City("UK"),
+	Brentford("London", "UK"),
+	Brighton("UK"),
+	Bristol_City("UK"),
+	Burnley("UK"),
+	Cardiff_City("UK"),
+	Chelsea("London", "UK"),
+	Crystal_Palace("London", "UK"),
+	Everton("Liverpool", "UK"),
+	Huddersfield("UK"),
+	Hull_City("UK"),
+	Ipswich("UK"),
+	Leicester("UK"),
+	Leeds_United("UK"),
+	Liverpool("UK"),
+	Manchester_City("UK"),
+	Manchester_United("UK"),
+	Millwall("London", "UK"),
+	Newcastle_United("Newcastle", "UK"),
+	Nottingham_Forest("Nottingham", "UK"),
+	QPR("London", "UK"),
+	Reading("UK"),
+	Southampton("UK"),
+	Swansea_City("UK"),
+	Stoke_City("Stoke-on-Trent", "UK"),
+	Sunderland("UK"),
+	Tottenham_Hotspur("London", "UK"),
+	Watford("UK"),
+	West_Brom("West Bromwich", "UK"),
+	West_Ham("London", "UK"),
+	Wigan_Athletic("UK"),
+	Wolves("Wolverhampton", "UK"),
 
-	Aberdeen("United Kingdom"),
-	Celtic("Glasgow", "United Kingdom"),
-	Dundee_United("United Kingdom"),
-	Rangers("Glasgow", "United Kingdom"),
+	Aberdeen("UK"),
+	Celtic("Glasgow", "UK"),
+	Dundee_United("UK"),
+	Rangers("Glasgow", "UK"),
 
 	Alaves("Vitoria-Gasteiz", "Spain"),
 	Athletic_Bilbao("Bilbao", "Spain"),
