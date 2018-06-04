@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Set;
 
-enum FootballClub {
+public enum FootballClub {
 
 	Arsenal("London", "UK"),
 	Aston_Villa("Birmingham", "UK"),
@@ -20,11 +20,12 @@ enum FootballClub {
 	Huddersfield("UK"),
 	Hull_City("UK"),
 	Ipswich("UK"),
-	Leicester("UK"),
+	Leicester_City("UK"),
 	Leeds_United("UK"),
 	Liverpool("UK"),
 	Manchester_City("UK"),
 	Manchester_United("UK"),
+	Middlesbrough("UK"),
 	Millwall("London", "UK"),
 	Newcastle_United("Newcastle", "UK"),
 	Nottingham_Forest("Nottingham", "UK"),
@@ -44,6 +45,7 @@ enum FootballClub {
 	Aberdeen("UK"),
 	Celtic("Glasgow", "UK"),
 	Dundee_United("UK"),
+	Hibernian("Edinburgh", "UK"),
 	Rangers("Glasgow", "UK"),
 
 	Alaves("Vitoria-Gasteiz", "Spain"),
@@ -62,6 +64,7 @@ enum FootballClub {
 	Leganes("Madrid", "Spain"),
 	Leonesa("Leon", "Spain"),
 	Levante("Valencia", "Spain"),
+	Malaga("Spain"),
 	Numancia("Soria", "Spain"),
 	Real_Betis("Seville", "Spain"),
 	Real_Madrid("Madrid", "Spain"),
@@ -90,6 +93,7 @@ enum FootballClub {
 	SC_Freiburg("Freiburg", "Germany"),
 	Schalke_04("Gelsenkirchen", "Germany"),
 	Stuttgart("Germany"),
+	SV_Sandhausen("Heidelberg", "Germany"),
 	VfL_Bochum("Bochum", "Germany"),
 	Werder_Bremen("Bremen", "Germany"),
 	Wolfsburg("Germany"),
@@ -134,9 +138,11 @@ enum FootballClub {
 	Toulouse("France"),
 	Tours("France"),
 	Troyes("France"),
+	Valenciennes_FC("France"),
 	
 	Benfica("Lisbon", "Portugal"),
 	Braga("Portugal"),
+	CD_Feirense("Santa Maria da Feira", "Portugal"),		// Just Feira in Tableau
 	Maritimo("Funchal", "Portugal"),
 	Porto("Portugal"),
 	Sporting_Lisbon("Lisbon", "Portugal"),
@@ -155,13 +161,14 @@ enum FootballClub {
 	Eupen("Belgium"),
 	Genk("Belgium"),
 	Gent("Ghent", "Belgium"),
-	KSC_Lokeren_Oost_Vlaanderen("Lokeren", "Belgium"),
+	Lokeren("Belgium"),
 	Ostende("Belgium"),
 	Standard_Liege("Liege", "Belgium"),
 	Waasland_Beveren("Waasland-Beveren", "Beveren", "Belgium"),
 	
 	Red_Bull_Salzburg("Salzburg", "Austria"),
 	
+	FC_Basel("Switzerland"),
 	FC_Lausanne_Sport("FC Lausanne-Sport", "Lausanne", "Switzerland"),
 	FC_Luzern("Switzerland"),
 	Grasshopper_Zurich("Zurich", "Switzerland"),
@@ -184,6 +191,9 @@ enum FootballClub {
 
 	Rosenborg("Trondheim", "Norway"),
 	Valerenga("Oslo", "Norway"),
+		
+	Valur("Reykjavik", "Iceland"),
+	Vikingur("Leirvik", "Faroe Islands"),		// Not known by Tableau	Lat/Long = 62.211111 / -6.706111	
 	
 	Gornik_Zabrze("Zabrze", "Poland"),
 	Jagiellonia_Bialystok("Bialystok", "Poland"),
@@ -194,6 +204,7 @@ enum FootballClub {
 	
 	Dinamo_Bucharest("Bucharest", "Romania"),
 	
+	Levski_Sofia("Sofia", "Bulgaria"),
 	Lokomotiv_Plovdiv("Plovdiv", "Bulgaria"),
 	Ludogorets_Razgrad("Razgrad", "Bulgaria"),
 	
@@ -203,6 +214,7 @@ enum FootballClub {
 	Dinamo_Zagreb("Zagreb", "Croatia"),
 	Hajduk_Split("Split", "Croatia"),
 	NK_Lokomotiva("Zagreb", "Croatia"),
+	Rijeka("Croatia"),
 	
 	AEK_Athens("Athens", "Greece"),
 	Atromitos_Athens("Athens", "Greece"),
@@ -225,6 +237,7 @@ enum FootballClub {
 	Shakhtar_Donetsk("Donetsk", "Ukraine"),
 	
 	Alanyaspor("Alanya", "Turkey"),
+	Antalyaspor("Antalya", "Turkey"),
 	Basaksehir("Istanbul", "Turkey"),
 	Besiktas("Istanbul", "Turkey"),
 	Bursaspor("Bursa", "Turkey"),
@@ -292,17 +305,17 @@ enum FootballClub {
 	Kawasaki_Frontale("Kawasaki", "Japan"),				// Ambiguous in Tableau Lat/Long = 35.516667 / 139.7
 	Sagan_Tosu("Tosu", "Japan"),
 	Sanfrecce_Hiroshima("Hiroshima", "Japan"),
-	Tokyo_FC("Japan"),
+	FC_Tokyo("Japan"),
 	Urawa_Reds("Saitama", "Japan"),
 	Vissel_Kobe("Kobe", "Japan"),
 	Urawa_Red_Diamonds("Saitama", "Japan"),
 	Yokohama_F_Marinos("Yokohama", "Japan"),
 	
-	Asan_Mugunghwa("Asan", "South Korea"),
+	Asan_Mugunghwa_FC("Asan", "South Korea"),
 	Daegu_FC("South Korea"),
 	FC_Seoul("South Korea"),
-	Incheon_Utd("South Korea"),
-	Jeju_Utd("South Korea"),
+	Incheon_United("South Korea"),
+	Jeju_United("South Korea"),
 	Jeonbuk_Hyundai("Jeonju", "South Korea"),
 	Sangju_Sangmu("Sangju", "South Korea"),
 	Seongnam_FC("Seongnam", "South Korea"),				// Tableau knows this as 'Songnam' ('Sŏngnam' actually when looking up)
@@ -326,7 +339,7 @@ enum FootballClub {
 	Club_Africain("Tunis", "Tunisia"),
 	CS_Sfaxien("Sfax", "Tunisia"),
 	ES_Sahel("Sousse", "Tunisia"),
-	ES_Tunis("Tunis", "Tunisia"),
+	ES_Tunis("Esperance", "Tunis", "Tunisia"),
 	Etoile_du_Sahel("Sousse", "Tunisia"),
 	
 	Enyimba("Aba", "Nigeria"),
@@ -342,6 +355,7 @@ enum FootballClub {
 	Cafetaleros_de_Tapachula("Tapachula", "Mexico"),
 	Cruz_Azul("Mexico City", "Mexico"),
 	Guadalajara("Mexico"),
+	Leon("Mexico"),
 	Lobos_BUAP("Puebla", "Mexico"),					// Ambiguous in Tableau Lat/Long = 19.033333 / -98.183333
 	Mineros_Zacatecas("Zacatecas", "Mexico"),
 	Monterrey("Mexico"),
@@ -360,7 +374,7 @@ enum FootballClub {
 	
 	Bucaramanga("Colombia"),
 	Deportivo_Cali("Cali", "Colombia"),
-	Junior("Barranquilla", "Colombia"),
+	Atletico_Junior("Barranquilla", "Colombia"),
 	Once_Caldas("Manizales", "Colombia"),
 	Patriotas("Tunja", "Colombia"),
 	Rionegro_Aguilas("Rionegro", "Colombia"),
@@ -369,11 +383,12 @@ enum FootballClub {
 	Olimpia("Asuncion", "Paraguay"),
 	
 	Alianza_Lima("Lima", "Peru"),
-	Universitario("Lima", "Peru"),
+	Deportivo_Municipal("Lima", "Peru"),
 	Melgar("Arequipa", "Peru"),
 	Sports_Boys("Callao", "Peru"),
 	Union_Comercio("Nueva Cajamarca", "Peru"),
 	Universidad_San_Martin("Lima", "Peru"),
+	Universitario("Lima", "Peru"),
 	UTC("Cajamarca", "Peru"),
 
 	Huachipato("Talcahuano", "Chile"),
@@ -477,6 +492,7 @@ enum FootballClub {
 		addMapping("tottenham Hotspur", Tottenham_Hotspur); // Typo in BBC page ?
 		addMapping("Granadan", Granada);					// Typo in BBC page ?
 		addMapping("Patriots", Patriotas);					// Typo in BBC page ?
+		addMapping("Al Ahli Riyadh", Al_Ahli);				// Typo in BBC page ?	Team is in Jeddah
 		addMapping("Suwon Samsung Blue Wings", Suwon_Samsung_BlueWings);	// Typo in BBC page ?
 		addMapping("Tottenham", Tottenham_Hotspur);		
 		addMapping("Sporting", Sporting_Lisbon);
@@ -490,13 +506,14 @@ enum FootballClub {
 		addMapping("African Club", Club_Africain);
 		addMapping("C.S. Herediano", Herediano);
 		addMapping("Veracruz-MEX", Veracruz);
-		addMapping("Junior-Colombia", Junior);
+		addMapping("Junior-Colombia", Atletico_Junior);
 		addMapping("Ajax Amsterdam", Ajax);
 		addMapping("Al-Ittifaq", Al_Ettifaq);
+		addMapping("Al Ittifaq", Al_Ettifaq);
 		addMapping("Alliance", Alianza);
 		addMapping("Alsaad", Al_Sadd);
-		addMapping("KSC Lokeren Oost-Vlaanderen", KSC_Lokeren_Oost_Vlaanderen);
 		addMapping("LOSC", Lille_OSC);
+		addMapping("Lille", Lille_OSC);
 		addMapping("Yokohama F. Marinos", Yokohama_F_Marinos);
 		addMapping("CD Huachipato", Huachipato);
 		addMapping("Deportivo de La Coruna", Deportivo_La_Coruna);
@@ -513,6 +530,17 @@ enum FootballClub {
 		addMapping("Velez Sarsfield-Argentina", Velez_Sarsfield);
 		addMapping("Veracruz-Mexico", Veracruz);
 		addMapping("Stoke", Stoke_City);
+		addMapping("Borussia Mönchengladbach", Borussia_Monchengladbach);
+		addMapping("Jeonbuk Hyundai Motors", Jeonbuk_Hyundai);
+		addMapping("1899 Hoffenheim", Hoffenheim);
+		addMapping("Dynamo Kiev", Dynamo_Kyiv);
+		addMapping("FC Red Bull Salzburg", Red_Bull_Salzburg);
+		addMapping("Leipzig", RB_Leipzig);
+		addMapping("Junior", Atletico_Junior);
+		addMapping("Cercle Brugge KSV", Cercle_Brugge);
+		addMapping("Lobos Buap", Lobos_BUAP);
+		addMapping("SPAL 2013", SPAL);
+		addMapping("Vitoria Guimaraes", Vitoria_de_Guimaraes);
 		
 		// Remove conflicts
 		s_conflictNames.stream().forEach(n -> s_nameMappings.remove(n));

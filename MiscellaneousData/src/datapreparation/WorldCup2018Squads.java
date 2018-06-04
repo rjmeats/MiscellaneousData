@@ -74,6 +74,7 @@ class DataHandler {
 					m_unrecognisedClubNames.replace(p.m_clubName, count);
 				}
 				else {
+					//System.err.println("Adding unrec club : " + p.m_clubName);
 					m_unrecognisedClubNames.put(p.m_clubName, 1);
 				}				
 			}
@@ -112,12 +113,13 @@ class DataHandler {
 		
 		System.out.println();
 		System.out.println("Teams:");
-		//Map<Team, List<Player>> teams = m_players.stream().collect(Collectors.groupingBy(Player::getTeam));
-		//for(Map.Entry<Team, List<Player>> entry : teams.entrySet()) {
-		//	System.out.println("  " + entry.getKey().getName() + " : " + entry.getValue().size() + " players");
-		//}
+		
+		Map<Team, List<Player>> teams = m_players.stream().collect(Collectors.groupingBy(Player::getTeam));
+		for(Map.Entry<Team, List<Player>> entry : teams.entrySet()) {
+			System.out.println("  " + entry.getKey().getName() + " : " + entry.getValue().size() + " players");
+		}
 
-		//m_teams.stream().sorted(Comparator.comparing(Team::isFinal)).forEach(t -> System.out.println(t.m_teamName.m_name + " : " + t.m_players.size() + " players : " + (t.m_isFinal ? " final " : " to be confirmed")));	
+		m_teams.stream().sorted(Comparator.comparing(Team::isFinal)).forEach(t -> System.out.println(t.m_teamName.m_name + " : " + t.m_players.size() + " players : " + (t.m_isFinal ? " final " : " to be confirmed")));	
 	}
 	
 	void dumpCSV() {
@@ -242,12 +244,12 @@ class FileReader {
 
 	// Egypt (final 23 to be confirmed)
 	boolean processCountryLine(String line) {
-		String adjustedLine = line.replace("(final 23 to be confirmed)", "").trim();
+		String adjustedLine = line.replace("(final 23 to be confirmed)", "").replace("(final 23 to be named)", "").trim();
 		TeamName tn = m_teamNameMap.get(adjustedLine);
 		if(tn != null) {
 			Team t = new Team(tn);
 			t.setGroup(m_currentGroup);
-			t.setIsFinal(line.indexOf("to be confirmed") == -1);
+			t.setIsFinal(line.indexOf("to be ") == -1);
 			m_currentTeam = t;
 			m_teams.add(t);
 			// System.out.println("Found team " + m_currentTeam);
@@ -259,6 +261,12 @@ class FileReader {
 	static Pattern s_positionLinePattern = Pattern.compile("(.*):\\s+(.*?)\\.?"); 
 	boolean processPositionLine(String line) {
 		boolean matched = false;
+		
+		// Bodges to handle case of commas not being used as expected
+		line = line.replaceAll("Torino, Italy", "Torino");
+		line = line.replaceAll("Tarek Hamed, \\(Zamalek\\),", "Tarek Hamed (Zamalek),");
+		line = line.replaceAll("William Troost-Ekong and Abdullahi Shehu \\(Bursaspor\\)", "William Troost-Ekong, Abdullahi Shehu (both Bursaspor)");
+		
 		Matcher m = s_positionLinePattern.matcher(line);
 		if(m.matches()) {
 			Position pos = m_positionNameMap.get(m.group(1));
@@ -293,7 +301,11 @@ class FileReader {
 				matched = !badPlayerFound;
 				if(!matched) System.err.println("Problem processing : " + line);
 				if(playersWithNoClubName.size() > 0) {
-					System.err.println("Players with no club for: " + line);
+					System.err.println(playersWithNoClubName.size() + " player(s) with no club for: " + line);
+					for(Player noClubPlayer : playersWithNoClubName) {
+						System.err.println(" - name = " + noClubPlayer.m_playerName);						
+						noClubPlayer.setClubName("<Null club>");
+					}
 				}
 			}
 		}
