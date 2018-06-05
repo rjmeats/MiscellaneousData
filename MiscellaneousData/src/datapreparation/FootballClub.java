@@ -89,7 +89,7 @@ public enum FootballClub {
 	Hamburg("Germany"),
 	Mainz("Germany"),
 	RB_Leipzig("Leipzig", "Germany"),
-	Saint_Pauli("Hamburg", "Germany"),
+	St_Pauli("Hamburg", "Germany"),
 	SC_Freiburg("Freiburg", "Germany"),
 	Schalke_04("Gelsenkirchen", "Germany"),
 	Stuttgart("Germany"),
@@ -169,9 +169,9 @@ public enum FootballClub {
 	Red_Bull_Salzburg("Salzburg", "Austria"),
 	
 	FC_Basel("Switzerland"),
-	FC_Lausanne_Sport("FC Lausanne-Sport", "Lausanne", "Switzerland"),
 	FC_Luzern("Switzerland"),
 	Grasshopper_Zurich("Zurich", "Switzerland"),
+	Lausanne_Sport("Lausanne-Sport", "Lausanne", "Switzerland"),
 		
 	Aalborg("Denmark"),
 	Aarhus("Denmark"),
@@ -217,7 +217,7 @@ public enum FootballClub {
 	Rijeka("Croatia"),
 	
 	AEK_Athens("Athens", "Greece"),
-	Atromitos_Athens("Athens", "Greece"),
+	Atromitos("Athens", "Greece"),
 	Olympiacos("Piraeus", "Greece"),
 	PAOK_Salonika("Thessaloniki", "Greece"),
 	
@@ -238,7 +238,7 @@ public enum FootballClub {
 	
 	Alanyaspor("Alanya", "Turkey"),
 	Antalyaspor("Antalya", "Turkey"),
-	Basaksehir("Istanbul", "Turkey"),
+	Istanbul_Basaksehir("Istanbul", "Turkey"),
 	Besiktas("Istanbul", "Turkey"),
 	Bursaspor("Bursa", "Turkey"),
 	Fenerbahce("Istanbul", "Turkey"),
@@ -311,7 +311,7 @@ public enum FootballClub {
 	Urawa_Red_Diamonds("Saitama", "Japan"),
 	Yokohama_F_Marinos("Yokohama", "Japan"),
 	
-	Asan_Mugunghwa_FC("Asan", "South Korea"),
+	Asan_Mugunghwa("Asan", "South Korea"),
 	Daegu_FC("South Korea"),
 	FC_Seoul("South Korea"),
 	Incheon_United("South Korea"),
@@ -338,9 +338,8 @@ public enum FootballClub {
 	
 	Club_Africain("Tunis", "Tunisia"),
 	CS_Sfaxien("Sfax", "Tunisia"),
-	ES_Sahel("Sousse", "Tunisia"),
-	ES_Tunis("Esperance", "Tunis", "Tunisia"),
-	Etoile_du_Sahel("Sousse", "Tunisia"),
+	Esperance("Tunis", "Tunisia"),
+	Etoile_Sportive_du_Sahel("Sousse", "Tunisia"),
 	
 	Enyimba("Aba", "Nigeria"),
 	Kano_Pillars("Kano", "Nigeria"),
@@ -397,6 +396,7 @@ public enum FootballClub {
 	Alianza("Panama City", "Panama"),
 	Chorrillo("Panama City", "Panama"),
 	Plaza_Amador("Panama City", "Panama"),
+	San_Miguelito("Panama"),
 	Tauro("Panama City", "Panama"),
 	
 	Municipal("Guatemala City", "Guatemala"),
@@ -541,6 +541,7 @@ public enum FootballClub {
 		addMapping("Lobos Buap", Lobos_BUAP);
 		addMapping("SPAL 2013", SPAL);
 		addMapping("Vitoria Guimaraes", Vitoria_de_Guimaraes);
+		addMapping("Etoile du Sahel", Etoile_Sportive_du_Sahel);
 		
 		// Remove conflicts
 		s_conflictNames.stream().forEach(n -> s_nameMappings.remove(n));

@@ -265,7 +265,6 @@ class FileReader {
 		// Bodges to handle case of commas not being used as expected
 		line = line.replaceAll("Torino, Italy", "Torino");
 		line = line.replaceAll("Tarek Hamed, \\(Zamalek\\),", "Tarek Hamed (Zamalek),");
-		line = line.replaceAll("William Troost-Ekong and Abdullahi Shehu \\(Bursaspor\\)", "William Troost-Ekong, Abdullahi Shehu (both Bursaspor)");
 		
 		Matcher m = s_positionLinePattern.matcher(line);
 		if(m.matches()) {

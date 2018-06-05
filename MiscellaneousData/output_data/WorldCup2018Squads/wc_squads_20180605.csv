@@ -1,0 +1,737 @@
+Player,National Team,National Team Country,Group,Position,Club Name,Club Town,Club Country,Raw Club Name,Same Country
+Igor Akinfeev,Russia,Russia,A,Goalkeeper,CSKA Moscow,Moscow,Russia,CSKA Moscow,Y
+Vladimir Gabulov,Russia,Russia,A,Goalkeeper,Club Brugge,Bruges,Belgium,Club Brugge,N
+Andrey Lunyov,Russia,Russia,A,Goalkeeper,Zenit St Petersburg,St Petersburg,Russia,Zenit St Petersburg,Y
+Vladimir Granat,Russia,Russia,A,Defender,Rubin Kazan,Kazan,Russia,Rubin Kazan,Y
+Fyodor Kudryashov,Russia,Russia,A,Defender,Rubin Kazan,Kazan,Russia,Rubin Kazan,Y
+Ilya Kutepov,Russia,Russia,A,Defender,Spartak Moscow,Moscow,Russia,Spartak Moscow,Y
+Andrei Semyonov,Russia,Russia,A,Defender,Akhmat Grozny,Grozny,Russia,Akhmat Grozny,Y
+Sergei Ignashevich,Russia,Russia,A,Defender,CSKA Moscow,Moscow,Russia,CSKA Moscow,Y
+Mario Fernandes,Russia,Russia,A,Defender,CSKA Moscow,Moscow,Russia,CSKA Moscow,Y
+Igor Smolnikov,Russia,Russia,A,Defender,Zenit St Petersburg,St Petersburg,Russia,Zenit St Petersburg,Y
+Yury Gazinsky,Russia,Russia,A,Midfielder,Krasnodar,Krasnodar,Russia,Krasnodar,Y
+Aleksandr Golovin,Russia,Russia,A,Midfielder,CSKA Moscow,Moscow,Russia,CSKA Moscow,Y
+Alan Dzagoev,Russia,Russia,A,Midfielder,CSKA Moscow,Moscow,Russia,CSKA Moscow,Y
+Aleksandr Yerokhin,Russia,Russia,A,Midfielder,Zenit St Petersburg,St Petersburg,Russia,Zenit St Petersburg,Y
+Yuri Zhirkov,Russia,Russia,A,Midfielder,Zenit St Petersburg,St Petersburg,Russia,Zenit St Petersburg,Y
+Daler Kuzyaev,Russia,Russia,A,Midfielder,Zenit St Petersburg,St Petersburg,Russia,Zenit St Petersburg,Y
+Roman Zobnin,Russia,Russia,A,Midfielder,Spartak Moscow,Moscow,Russia,Spartak Moscow,Y
+Aleksandr Samedov,Russia,Russia,A,Midfielder,Spartak Moscow,Moscow,Russia,Spartak Moscow,Y
+Anton Miranchuk,Russia,Russia,A,Midfielder,Lokomotiv Moscow,Moscow,Russia,Lokomotiv Moscow,Y
+Denis Cheryshev,Russia,Russia,A,Midfielder,Villarreal,Villarreal,Spain,Villarreal,N
+Artem Dzyuba,Russia,Russia,A,Forward,Arsenal Tula,Tula,Russia,Arsenal Tula,Y
+Aleksei Miranchuk,Russia,Russia,A,Forward,Lokomotiv Moscow,Moscow,Russia,Lokomotiv Moscow,Y
+Fyodor Smolov,Russia,Russia,A,Forward,Krasnodar,Krasnodar,Russia,Krasnodar,Y
+Mohammed Alowais,Saudi Arabia,Saudi Arabia,A,Goalkeeper,Al-Ahli,Jeddah,Saudi Arabia,Al Ahli,Y
+Yasser Almosailem,Saudi Arabia,Saudi Arabia,A,Goalkeeper,Al-Ahli,Jeddah,Saudi Arabia,Al Ahli,Y
+Abdullah Almuaiouf,Saudi Arabia,Saudi Arabia,A,Goalkeeper,Al-Hilal,Riyadh,Saudi Arabia,Al Hilal,Y
+Mansoor Alharbi,Saudi Arabia,Saudi Arabia,A,Defender,Al-Ahli,Jeddah,Saudi Arabia,Al Ahli,Y
+Yasser Alshahrani,Saudi Arabia,Saudi Arabia,A,Defender,Al-Hilal,Riyadh,Saudi Arabia,Al Hilal,Y
+Mohammed Alburyak,Saudi Arabia,Saudi Arabia,A,Defender,Al-Hilal,Riyadh,Saudi Arabia,Al Hilal,Y
+Motaz Hawsawi,Saudi Arabia,Saudi Arabia,A,Defender,Al-Ahli,Jeddah,Saudi Arabia,Al Ahli,Y
+Osama Hawsawi,Saudi Arabia,Saudi Arabia,A,Defender,Al-Hilal,Riyadh,Saudi Arabia,Al Hilal,Y
+Omar Othman,Saudi Arabia,Saudi Arabia,A,Defender,Al-Nassr,Riyadh,Saudi Arabia,Al Nassr,Y
+Ali Albulayhi,Saudi Arabia,Saudi Arabia,A,Defender,Al-Hilal,Riyadh,Saudi Arabia,Al Hilal,Y
+Abdullah Alkhaibari,Saudi Arabia,Saudi Arabia,A,Midfielder,Al-Shabab,Riyadh,Saudi Arabia,Al Shabab,Y
+Abdulmalek Alkhaibri,Saudi Arabia,Saudi Arabia,A,Midfielder,Al-Hilal,Riyadh,Saudi Arabia,Al Hilal,Y
+Abdullah Otayf,Saudi Arabia,Saudi Arabia,A,Midfielder,Al-Hilal,Riyadh,Saudi Arabia,Al Hilal,Y
+Taiseer Aljassam,Saudi Arabia,Saudi Arabia,A,Midfielder,Al-Ahli,Jeddah,Saudi Arabia,Al Ahli,Y
+Hussain Almoqahwi,Saudi Arabia,Saudi Arabia,A,Midfielder,Al-Ahli,Jeddah,Saudi Arabia,Al Ahli,Y
+Salman Alfaraj,Saudi Arabia,Saudi Arabia,A,Midfielder,Al-Hilal,Riyadh,Saudi Arabia,Al Hilal,Y
+Mohamed Kanno,Saudi Arabia,Saudi Arabia,A,Midfielder,Al-Hilal,Riyadh,Saudi Arabia,Al Hilal,Y
+Hatan Bahbir,Saudi Arabia,Saudi Arabia,A,Midfielder,Al-Shabab,Riyadh,Saudi Arabia,Al Shabab,Y
+Salem Aldawsari,Saudi Arabia,Saudi Arabia,A,Midfielder,Al-Hilal,Riyadh,Saudi Arabia,Al Hilal,Y
+Yahia Alshehri,Saudi Arabia,Saudi Arabia,A,Midfielder,Al-Nassr,Riyadh,Saudi Arabia,Al Nassr,Y
+Mohammed Alsahlawi,Saudi Arabia,Saudi Arabia,A,Forward,Al-Nassr,Riyadh,Saudi Arabia,Al Nassr,Y
+Muhannad Asiri,Saudi Arabia,Saudi Arabia,A,Forward,Al-Ahli,Jeddah,Saudi Arabia,Al Ahli,Y
+Fahad Almuwallad,Saudi Arabia,Saudi Arabia,A,Forward,Al-Ittihad,Jeddah,Saudi Arabia,Al Ittihad,Y
+Essam El Hadary,Egypt,Egypt,A,Goalkeeper,Al-Taawoun,Buraydah,Saudi Arabia,Al Taawoun,N
+Mohamed El-Shennawy,Egypt,Egypt,A,Goalkeeper,Al-Ahly,Cairo,Egypt,Al Ahly,Y
+Sherif Ekramy,Egypt,Egypt,A,Goalkeeper,Al-Ahly,Cairo,Egypt,Al Ahly,Y
+Ahmed Fathi,Egypt,Egypt,A,Defender,Al-Ahly,Cairo,Egypt,Al Ahly,Y
+Saad Samir,Egypt,Egypt,A,Defender,Al-Ahly,Cairo,Egypt,Al Ahly,Y
+Ayman Ashraf,Egypt,Egypt,A,Defender,Al-Ahly,Cairo,Egypt,Al Ahly,Y
+Mahmoud Hamdy,Egypt,Egypt,A,Defender,Zamalek,Giza,Egypt,Zamalek,Y
+Mohamed Abdel-Shafy,Egypt,Egypt,A,Defender,Al-Fateh,Al-Ahsa,Saudi Arabia,Al Fateh,N
+Ahmed Hegazi,Egypt,Egypt,A,Defender,West Brom,West Bromwich,UK,West Brom,N
+Ali Gabr,Egypt,Egypt,A,Defender,Zamalek,Giza,Egypt,Zamalek,Y
+Ahmed Elmohamady,Egypt,Egypt,A,Defender,Aston Villa,Birmingham,UK,Aston Villa,N
+Omar Gaber,Egypt,Egypt,A,Defender,Los Angeles FC,Los Angeles,USA,Los Angeles FC,N
+Tarek Hamed,Egypt,Egypt,A,Midfielder,Zamalek,Giza,Egypt,Zamalek,Y
+Abdallah Said,Egypt,Egypt,A,Midfielder,Al-Ahli,Jeddah,Saudi Arabia,Al Ahli,N
+Sam Morsy,Egypt,Egypt,A,Midfielder,Wigan Athletic,Wigan,UK,Wigan Athletic,N
+Mohamed Elneny,Egypt,Egypt,A,Midfielder,Arsenal,London,UK,Arsenal,N
+Ramadan Sobhi,Egypt,Egypt,A,Midfielder,Stoke City,Stoke-on-Trent,UK,Stoke City,N
+Mahmoud Hassan,Egypt,Egypt,A,Midfielder,Kasimpasa,Istanbul,Turkey,Kasimpasa,N
+Mohamed Salah,Egypt,Egypt,A,Forward,Liverpool,Liverpool,UK,Liverpool,N
+Marwan Mohsen,Egypt,Egypt,A,Forward,Al-Ahly,Cairo,Egypt,Al Ahly,Y
+Shikabala,Egypt,Egypt,A,Forward,Zamalek,Giza,Egypt,Zamalek,Y
+Amr Warda,Egypt,Egypt,A,Forward,Atromitos,Athens,Greece,Atromitos,N
+Mahmoud Kahraba,Egypt,Egypt,A,Forward,Al-Ittihad,Jeddah,Saudi Arabia,Al Ittihad,N
+Fernando Muslera,Uruguay,Uruguay,A,Goalkeeper,Galatasaray,Istanbul,Turkey,Galatasaray,N
+Martin Silva,Uruguay,Uruguay,A,Goalkeeper,Vasco da Gama,Rio de Janeiro,Brazil,Vasco da Gama,N
+Martin Campana,Uruguay,Uruguay,A,Goalkeeper,Independiente,Buenos Aires,Argentina,Independiente,N
+Diego Godin,Uruguay,Uruguay,A,Defender,Atletico Madrid,Madrid,Spain,Atletico Madrid,N
+Jose Maria Gimenez,Uruguay,Uruguay,A,Defender,Atletico Madrid,Madrid,Spain,Atletico Madrid,N
+Sebastian Coates,Uruguay,Uruguay,A,Defender,Sporting Lisbon,Lisbon,Portugal,Sporting Lisbon,N
+Maximiliano Pereira,Uruguay,Uruguay,A,Defender,Porto,Porto,Portugal,Porto,N
+Gaston Silva,Uruguay,Uruguay,A,Defender,Independiente,Buenos Aires,Argentina,Independiente,N
+Martin Caceres,Uruguay,Uruguay,A,Defender,Lazio,Rome,Italy,Lazio,N
+Guillermo Varela,Uruguay,Uruguay,A,Defender,Penarol,Montevideo,Uruguay,Penarol,Y
+Nahitan Nandez,Uruguay,Uruguay,A,Midfielder,Boca Juniors,Buenos Aires,Argentina,Boca Juniors,N
+Lucas Torreira,Uruguay,Uruguay,A,Midfielder,Sampdoria,Genoa,Italy,Sampdoria,N
+Matias Vecino,Uruguay,Uruguay,A,Midfielder,Inter Milan,Milan,Italy,Inter Milan,N
+Rodrigo Bentancur,Uruguay,Uruguay,A,Midfielder,Juventus,Turin,Italy,Juventus,N
+Carlos Sanchez,Uruguay,Uruguay,A,Midfielder,Monterrey,Monterrey,Mexico,Monterrey,N
+Giorgian De Arrascaeta,Uruguay,Uruguay,A,Midfielder,Cruzeiro,Belo Horizonte,Brazil,Cruzeiro,N
+Diego Laxalt,Uruguay,Uruguay,A,Midfielder,Genoa,Genoa,Italy,Genoa,N
+Cristian Rodriguez,Uruguay,Uruguay,A,Midfielder,Penarol,Montevideo,Uruguay,Penarol,Y
+Jonathan Urretaviscaya,Uruguay,Uruguay,A,Midfielder,Monterrey,Monterrey,Mexico,Monterrey,N
+Cristhian Stuani,Uruguay,Uruguay,A,Forward,Girona,Girona,Spain,Girona,N
+Maximiliano Gomez,Uruguay,Uruguay,A,Forward,Celta Vigo,Vigo,Spain,Celta Vigo,N
+Edinson Cavani,Uruguay,Uruguay,A,Forward,Paris St Germain,Paris,France,Paris St-Germain,N
+Luis Suarez,Uruguay,Uruguay,A,Forward,Barcelona,Barcelona,Spain,Barcelona,N
+Anthony Lopes,Portugal,Portugal,B,Goalkeeper,Lyon,Lyon,France,Lyon,N
+Beto,Portugal,Portugal,B,Goalkeeper,Goztepe,Izmir,Turkey,Goztepe,N
+Rui Patricio,Portugal,Portugal,B,Goalkeeper,Sporting Lisbon,Lisbon,Portugal,Sporting Lisbon,Y
+Bruno Alves,Portugal,Portugal,B,Defender,Rangers,Glasgow,UK,Rangers,N
+Cedric Soares,Portugal,Portugal,B,Defender,Southampton,Southampton,UK,Southampton,N
+Jose Fonte,Portugal,Portugal,B,Defender,Dalian Yifang,Dalian,China,Dalian Yifang,N
+Mario Rui,Portugal,Portugal,B,Defender,Napoli,Naples,Italy,Napoli,N
+Pepe,Portugal,Portugal,B,Defender,Besiktas,Istanbul,Turkey,Besiktas,N
+Raphael Guerreiro,Portugal,Portugal,B,Defender,Borussia Dortmund,Dortmund,Germany,Borussia Dortmund,N
+Ricardo Pereira,Portugal,Portugal,B,Defender,Porto,Porto,Portugal,Porto,Y
+Ruben Dias,Portugal,Portugal,B,Defender,Benfica,Lisbon,Portugal,Benfica,Y
+Adrien Silva,Portugal,Portugal,B,Midfielder,Leicester City,Leicester,UK,Leicester,N
+Bruno Fernandes,Portugal,Portugal,B,Midfielder,Sporting Lisbon,Lisbon,Portugal,Sporting Lisbon,Y
+Joao Mario,Portugal,Portugal,B,Midfielder,West Ham,London,UK,West Ham,N
+Joao Moutinho,Portugal,Portugal,B,Midfielder,Monaco,Monaco,Monaco,Monaco,N
+Manuel Fernandes,Portugal,Portugal,B,Midfielder,Lokomotiv Moscow,Moscow,Russia,Lokomotiv Moscow,N
+William Carvalho,Portugal,Portugal,B,Midfielder,Sporting Lisbon,Lisbon,Portugal,Sporting,Y
+Andre Silva,Portugal,Portugal,B,Forward,AC Milan,Milan,Italy,AC Milan,N
+Bernardo Silva,Portugal,Portugal,B,Forward,Manchester City,Manchester,UK,Manchester City,N
+Cristiano Ronaldo,Portugal,Portugal,B,Forward,Real Madrid,Madrid,Spain,Real Madrid,N
+Gelson Martins,Portugal,Portugal,B,Forward,Sporting Lisbon,Lisbon,Portugal,Sporting Lisbon,Y
+Goncalo Guedes,Portugal,Portugal,B,Forward,Valencia,Valencia,Spain,Valencia,N
+Ricardo Quaresma,Portugal,Portugal,B,Forward,Besiktas,Istanbul,Turkey,Besiktas,N
+Pepe Reina,Spain,Spain,B,Goalkeeper,Napoli,Naples,Italy,Napoli,N
+David de Gea,Spain,Spain,B,Goalkeeper,Manchester United,Manchester,UK,Manchester United,N
+Kepa Arrizabalaga,Spain,Spain,B,Goalkeeper,Athletic Bilbao,Bilbao,Spain,Athletic Bilbao,Y
+Nacho Fernandez,Spain,Spain,B,Defender,Real Madrid,Madrid,Spain,Real Madrid,Y
+Sergio Ramos,Spain,Spain,B,Defender,Real Madrid,Madrid,Spain,Real Madrid,Y
+Dani Carvajal,Spain,Spain,B,Defender,Real Madrid,Madrid,Spain,Real Madrid,Y
+Gerard Pique,Spain,Spain,B,Defender,Barcelona,Barcelona,Spain,Barcelona,Y
+Jordi Alba,Spain,Spain,B,Defender,Barcelona,Barcelona,Spain,Barcelona,Y
+Alvaro Odriozola,Spain,Spain,B,Defender,Real Sociedad,San Sebastian,Spain,Real Sociedad,Y
+Nacho Monreal,Spain,Spain,B,Defender,Arsenal,London,UK,Arsenal,N
+Cesar Azpilicueta,Spain,Spain,B,Defender,Chelsea,London,UK,Chelsea,N
+Andres Iniesta,Spain,Spain,B,Midfielder,Barcelona,Barcelona,Spain,Barcelona,Y
+Sergio Busquets,Spain,Spain,B,Midfielder,Barcelona,Barcelona,Spain,Barcelona,Y
+Saul Niguez,Spain,Spain,B,Midfielder,Atletico Madrid,Madrid,Spain,Atletico Madrid,Y
+Koke,Spain,Spain,B,Midfielder,Atletico Madrid,Madrid,Spain,Atletico Madrid,Y
+Isco,Spain,Spain,B,Midfielder,Real Madrid,Madrid,Spain,Real Madrid,Y
+Marco Asensio,Spain,Spain,B,Midfielder,Real Madrid,Madrid,Spain,Real Madrid,Y
+Thiago Alcantara,Spain,Spain,B,Midfielder,Bayern Munich,Munich,Germany,Bayern Munich,N
+David Silva,Spain,Spain,B,Midfielder,Manchester City,Manchester,UK,Manchester City,N
+Iago Aspas,Spain,Spain,B,Forward,Celta Vigo,Vigo,Spain,Celta Vigo,Y
+Rodrigo,Spain,Spain,B,Forward,Valencia,Valencia,Spain,Valencia,Y
+Diego Costa,Spain,Spain,B,Forward,Atletico Madrid,Madrid,Spain,Atletico Madrid,Y
+Lucas Vazquez,Spain,Spain,B,Forward,Real Madrid,Madrid,Spain,Real Madrid,Y
+Mounir El Kajoui,Morocco,Morocco,B,Goalkeeper,Numancia,Soria,Spain,Numancia,N
+Yassine Bounou,Morocco,Morocco,B,Goalkeeper,Girona,Girona,Spain,Girona,N
+Ahmad Reda Tagnaouti,Morocco,Morocco,B,Goalkeeper,Ittihad Tanger,Tangier,Morocco,Ittihad Tanger,Y
+Mehdi Benatia,Morocco,Morocco,B,Defender,Juventus,Turin,Italy,Juventus,N
+Romain Saiss,Morocco,Morocco,B,Defender,Wolves,Wolverhampton,UK,Wolves,N
+Manuel Da Costa,Morocco,Morocco,B,Defender,Istanbul Basaksehir,Istanbul,Turkey,Istanbul Basaksehir,N
+Nabil Dirar,Morocco,Morocco,B,Defender,Fenerbahce,Istanbul,Turkey,Fenerbahce,N
+Achraf Hakimi,Morocco,Morocco,B,Defender,Real Madrid,Madrid,Spain,Real Madrid,N
+Hamza Mendyl,Morocco,Morocco,B,Defender,Lille OSC,Lille,France,Lille,N
+M'barek Boussoufa,Morocco,Morocco,B,Midfielder,Al-Jazira,Abu Dhabi,UAE,Al Jazira,N
+Karim El Ahmadi,Morocco,Morocco,B,Midfielder,Feyenoord,Rotterdam,Netherlands,Feyenoord,N
+Youssef Ait Bennasser,Morocco,Morocco,B,Midfielder,Caen,Caen,France,Caen,N
+Sofyan Amrabat,Morocco,Morocco,B,Midfielder,Feyenoord,Rotterdam,Netherlands,Feyenoord,N
+Younes Belhanda,Morocco,Morocco,B,Midfielder,Galatasaray,Istanbul,Turkey,Galatasaray,N
+Faycal Fajr,Morocco,Morocco,B,Midfielder,Getafe,Madrid,Spain,Getafe,N
+Amine Harit,Morocco,Morocco,B,Midfielder,Schalke 04,Gelsenkirchen,Germany,Schalke,N
+Khalid Boutaib,Morocco,Morocco,B,Forward,Malatyaspor,Malatya,Turkey,Malatyaspor,N
+Aziz Bouhaddouz,Morocco,Morocco,B,Forward,St Pauli,Hamburg,Germany,St Pauli,N
+Ayoub El Kaabi,Morocco,Morocco,B,Forward,Renaissance Berkane,Berkane,Morocco,Renaissance Berkane,Y
+Nordin Amrabat,Morocco,Morocco,B,Forward,Leganes,Madrid,Spain,Leganes,N
+Mehdi Carcela,Morocco,Morocco,B,Forward,Standard Liege,Liege,Belgium,Standard Liege,N
+Hakim Ziyech,Morocco,Morocco,B,Forward,Ajax,Amsterdam,Netherlands,Ajax,N
+Youssef En Nesyri,Morocco,Morocco,B,Forward,Malaga,Malaga,Spain,Malaga,N
+Alireza Beiranvand,Iran,Iran,B,Goalkeeper,Persepolis,Tehran,Iran,Persepolis,Y
+Rashid Mazaheri,Iran,Iran,B,Goalkeeper,Zob Ahan,Isfahan,Iran,Zob Ahan,Y
+Amir Abedzadeh,Iran,Iran,B,Goalkeeper,Maritimo,Funchal,Portugal,Maritimo,N
+Majid Hosseini,Iran,Iran,B,Defender,Esteghlal,Tehran,Iran,Esteghlal,Y
+Ramin Rezaeian,Iran,Iran,B,Defender,Ostende,Ostende,Belgium,Ostende,N
+Mohammad Reza Khanzadeh,Iran,Iran,B,Defender,Padideh,Mashhad,Iran,Padideh,Y
+Morteza Pouraliganji,Iran,Iran,B,Defender,Al-Sadd,Doha,Qatar,Alsaad,N
+Pejman Montazeri,Iran,Iran,B,Defender,Esteghlal,Tehran,Iran,Esteghlal,Y
+Milad Mohammadi,Iran,Iran,B,Defender,Akhmat Grozny,Grozny,Russia,Akhmat Grozny,N
+Roozbeh Cheshmi,Iran,Iran,B,Defender,Esteghlal,Tehran,Iran,Esteghlal,Y
+Saeid Ezatolahi,Iran,Iran,B,Midfielder,Amkar Perm,Perm,Russia,Amkar Perm,N
+Masoud Shojaei,Iran,Iran,B,Midfielder,AEK Athens,Athens,Greece,AEK Athens,N
+Mehdi Torabi,Iran,Iran,B,Midfielder,Saipa,Tehran,Iran,Saipa,Y
+Omid Ebrahimi,Iran,Iran,B,Midfielder,Esteghlal,Tehran,Iran,Esteghlal,Y
+Ehsan Haji Safi,Iran,Iran,B,Midfielder,Olympiacos,Piraeus,Greece,Olympiacos,N
+Karim Ansarifard,Iran,Iran,B,Midfielder,Olympiacos,Piraeus,Greece,Olympiacos,N
+Vahid Amiri,Iran,Iran,B,Midfielder,Persepolis,Tehran,Iran,Persepolis,Y
+Alireza Jahanbakhsh,Iran,Iran,B,Forward,AZ Alkmaar,Alkmaar,Netherlands,AZ Alkmaar,N
+Mehdi Taremi,Iran,Iran,B,Forward,Al-Gharafa,Doha,Qatar,Al Gharafa,N
+Sardar Azmoun,Iran,Iran,B,Forward,Rubin Kazan,Kazan,Russia,Rubin Kazan,N
+Reza Ghoochannejhad,Iran,Iran,B,Forward,Heerenveen,Heerenveen,Netherlands,Heerenveen,N
+Saman Ghoddos,Iran,Iran,B,Forward,Ostersunds,Ostersund,Sweden,Ostersunds,N
+Ashkan Dejagah,Iran,Iran,B,Forward,Nottingham Forest,Nottingham,UK,Nottingham Forest,N
+Hugo Lloris,France,France,C,Goalkeeper,Tottenham Hotspur,London,UK,Tottenham,N
+Steve Mandanda,France,France,C,Goalkeeper,Marseille,Marseille,France,Marseille,Y
+Alphonse Areola,France,France,C,Goalkeeper,Paris St Germain,Paris,France,Paris St-Germain,Y
+Lucas Hernandez,France,France,C,Defender,Atletico Madrid,Madrid,Spain,Atletico Madrid,N
+Presnel Kimpembe,France,France,C,Defender,Paris St Germain,Paris,France,Paris St-Germain,Y
+Benjamin Mendy,France,France,C,Defender,Manchester City,Manchester,UK,Manchester City,N
+Benjamin Pavard,France,France,C,Defender,Stuttgart,Stuttgart,Germany,Stuttgart,N
+Adil Rami,France,France,C,Defender,Marseille,Marseille,France,Marseille,Y
+Djibril Sidibe,France,France,C,Defender,Monaco,Monaco,Monaco,Monaco,N
+Samuel Umtiti,France,France,C,Defender,Barcelona,Barcelona,Spain,Barcelona,N
+Raphael Varane,France,France,C,Defender,Real Madrid,Madrid,Spain,Real Madrid,N
+N'Golo Kante,France,France,C,Midfielder,Chelsea,London,UK,Chelsea,N
+Blaise Matuidi,France,France,C,Midfielder,Juventus,Turin,Italy,Juventus,N
+Steven N'Zonzi,France,France,C,Midfielder,Sevilla,Seville,Spain,Sevilla,N
+Paul Pogba,France,France,C,Midfielder,Manchester United,Manchester,UK,Manchester United,N
+Corentin Tolisso,France,France,C,Midfielder,Bayern Munich,Munich,Germany,Bayern Munich,N
+Ousmane Dembele,France,France,C,Forward,Barcelona,Barcelona,Spain,Barcelona,N
+Nabil Fekir,France,France,C,Forward,Lyon,Lyon,France,Lyon,Y
+Olivier Giroud,France,France,C,Forward,Chelsea,London,UK,Chelsea,N
+Antoine Griezmann,France,France,C,Forward,Atletico Madrid,Madrid,Spain,Atletico Madrid,N
+Thomas Lemar,France,France,C,Forward,Monaco,Monaco,Monaco,Monaco,N
+Kylian Mbappe,France,France,C,Forward,Paris St Germain,Paris,France,Paris St-Germain,Y
+Florian Thauvin,France,France,C,Forward,Marseille,Marseille,France,Marseille,Y
+Brad Jones,Australia,Australia,C,Goalkeeper,Feyenoord,Rotterdam,Netherlands,Feyenoord,N
+Mat Ryan,Australia,Australia,C,Goalkeeper,Brighton,Brighton,UK,Brighton,N
+Danny Vukovic,Australia,Australia,C,Goalkeeper,Genk,Genk,Belgium,Genk,N
+Aziz Behich,Australia,Australia,C,Defender,Bursaspor,Bursa,Turkey,Bursaspor,N
+Milos Degenek,Australia,Australia,C,Defender,Yokohama F Marinos,Yokohama,Japan,Yokohama F. Marinos,N
+Matthew Jurman,Australia,Australia,C,Defender,Suwon Samsung BlueWings,Suwon,South Korea,Suwon Samsung Blue Wings,N
+James Meredith,Australia,Australia,C,Defender,Millwall,London,UK,Millwall,N
+Josh Risdon,Australia,Australia,C,Defender,Western Sydney,Sydney,Australia,Western Sydney,Y
+Trent Sainsbury,Australia,Australia,C,Defender,Grasshopper Zurich,Zurich,Switzerland,Grasshopper Zurich,N
+Jackson Irvine,Australia,Australia,C,Midfielder,Hull City,Hull,UK,Hull City,N
+Mile Jedinak,Australia,Australia,C,Midfielder,Aston Villa,Birmingham,UK,Aston Villa,N
+Robbie Kruse,Australia,Australia,C,Midfielder,VfL Bochum,Bochum,Germany,VfL Bochum,N
+Massimo Luongo,Australia,Australia,C,Midfielder,QPR,London,UK,QPR,N
+Mark Milligan,Australia,Australia,C,Midfielder,Al-Ahli,Jeddah,Saudi Arabia,Al-Ahli,N
+Aaron Mooy,Australia,Australia,C,Midfielder,Huddersfield,Huddersfield,UK,Huddersfield,N
+Tom Rogic,Australia,Australia,C,Midfielder,Celtic,Glasgow,UK,Celtic,N
+Tim Cahill,Australia,Australia,C,Midfielder,Millwall,London,UK,Millwall,N
+Daniel Arzani,Australia,Australia,C,Forward,Melbourne City,Melbourne,Australia,Melbourne City,Y
+Tomi Juric,Australia,Australia,C,Forward,FC Luzern,Luzern,Switzerland,Luzern,N
+Mathew Leckie,Australia,Australia,C,Forward,Hertha Berlin,Berlin,Germany,Hertha Berlin,N
+Andrew Nabbout,Australia,Australia,C,Forward,Urawa Red Diamonds,Saitama,Japan,Urawa Red Diamonds,N
+Dimitri Petratos,Australia,Australia,C,Forward,Newcastle Jets,Newcastle,Australia,Newcastle Jets,Y
+Jamie Maclaren,Australia,Australia,C,Forward,Hibernian,Edinburgh,UK,Hibernian,N
+Pedro Gallese,Peru,Peru,C,Goalkeeper,Veracruz,Veracruz,Mexico,Veracruz,N
+Carlos Caceda,Peru,Peru,C,Goalkeeper,Deportivo Municipal,Lima,Peru,Deportivo Municipal,Y
+Jose Carvallo,Peru,Peru,C,Goalkeeper,UTC,Cajamarca,Peru,UTC,Y
+Aldo Corzo,Peru,Peru,C,Defender,Universitario,Lima,Peru,Universitario,Y
+Luis Advincula,Peru,Peru,C,Defender,Lobos BUAP,Puebla,Mexico,Lobos Buap,N
+Christian Ramos,Peru,Peru,C,Defender,Veracruz,Veracruz,Mexico,Veracruz,N
+Miguel Araujo,Peru,Peru,C,Defender,Alianza Lima,Lima,Peru,Alianza Lima,Y
+Alberto Rodriguez,Peru,Peru,C,Defender,Atletico Junior,Barranquilla,Colombia,Atletico Junior,N
+Anderson Santamaria,Peru,Peru,C,Defender,Puebla,Puebla,Mexico,Puebla,N
+Miguel Trauco,Peru,Peru,C,Defender,Flamengo,Rio de Janeiro,Brazil,Flamengo,N
+Nilson Loyola,Peru,Peru,C,Defender,Melgar,Arequipa,Peru,Melgar,Y
+Renato Tapia,Peru,Peru,C,Midfielder,Feyenoord,Rotterdam,Netherlands,Feyenoord,N
+Pedro Aquino,Peru,Peru,C,Midfielder,Leon,Leon,Mexico,Leon,N
+Yoshimar Yotun,Peru,Peru,C,Midfielder,Orlando City,Orlando,USA,Orlando City,N
+Paolo Hurtado,Peru,Peru,C,Midfielder,Vitoria de Guimaraes,Guimaraes,Portugal,Vitoria Guimaraes,N
+Christian Cueva,Peru,Peru,C,Midfielder,Sao Paulo,Sao Paulo,Brazil,Sao Paulo,N
+Edison Flores,Peru,Peru,C,Midfielder,Aalborg,Aalborg,Denmark,Aalborg,N
+Andy Polo,Peru,Peru,C,Midfielder,Portland Timbers,Portland,USA,Portland Timbers,N
+Wilder Cartagena,Peru,Peru,C,Midfielder,Veracruz,Veracruz,Mexico,Veracruz,N
+Andre Carrillo,Peru,Peru,C,Forward,Benfica,Lisbon,Portugal,Benfica,N
+Raul Ruidiaz,Peru,Peru,C,Forward,Morelia,Morelia,Mexico,Morelia,N
+Jefferson Farfan,Peru,Peru,C,Forward,Lokomotiv Moscow,Moscow,Russia,Lokomotiv Moscow,N
+Paolo Guerrero,Peru,Peru,C,Forward,Flamengo,Rio de Janeiro,Brazil,Flamengo,N
+Kasper Schmeichel,Denmark,Denmark,C,Goalkeeper,Leicester City,Leicester,UK,Leicester,N
+Frederik Ronnow,Denmark,Denmark,C,Goalkeeper,Brondby,Copenhagen,Denmark,Brondby,Y
+Jonas Lossl,Denmark,Denmark,C,Goalkeeper,Huddersfield,Huddersfield,UK,Huddersfield,N
+Simon Kjaer,Denmark,Denmark,C,Defender,Sevilla,Seville,Spain,Sevilla,N
+Mathias Jorgensen,Denmark,Denmark,C,Defender,Huddersfield,Huddersfield,UK,Huddersfield,N
+Andreas Christensen,Denmark,Denmark,C,Defender,Chelsea,London,UK,Chelsea,N
+Henrik Dalsgaard,Denmark,Denmark,C,Defender,Brentford,London,UK,Brentford,N
+Jannik Vestergaard,Denmark,Denmark,C,Defender,Borussia Monchengladbach,Monchengladbach,Germany,Borussia Monchengladbach,N
+Jens Stryger Larsen,Denmark,Denmark,C,Defender,Udinese,Udine,Italy,Udinese,N
+Jonas Knudsen,Denmark,Denmark,C,Defender,Ipswich,Ipswich,UK,Ipswich,N
+Christian Eriksen,Denmark,Denmark,C,Midfielder,Tottenham Hotspur,London,UK,Tottenham,N
+Lasse Schone,Denmark,Denmark,C,Midfielder,Ajax,Amsterdam,Netherlands,Ajax,N
+Michael Krohn-Dehli,Denmark,Denmark,C,Midfielder,Deportivo La Coruna,A Coruna,Spain,Deportivo La Coruna,N
+Thomas Delaney,Denmark,Denmark,C,Midfielder,Werder Bremen,Bremen,Germany,Werder Bremen,N
+William Kvist,Denmark,Denmark,C,Midfielder,FC Copenhagen,Copenhagen,Denmark,FC Copenhagen,Y
+Lukas Lerager,Denmark,Denmark,C,Midfielder,Bordeaux,Bordeaux,France,Bordeaux,N
+Andreas Cornelius,Denmark,Denmark,C,Forward,Atalanta,Bergamo,Italy,Atalanta,N
+Kasper Dolberg,Denmark,Denmark,C,Forward,Ajax,Amsterdam,Netherlands,Ajax,N
+Martin Braithwaite,Denmark,Denmark,C,Forward,Middlesbrough,Middlesbrough,UK,Middlesbrough,N
+Nicolai Jorgensen,Denmark,Denmark,C,Forward,Feyenoord,Rotterdam,Netherlands,Feyenoord,N
+Pione Sisto,Denmark,Denmark,C,Forward,Celta Vigo,Vigo,Spain,Celta Vigo,N
+Viktor Fischer,Denmark,Denmark,C,Forward,FC Copenhagen,Copenhagen,Denmark,FC Copenhagen,Y
+Yussuf Poulsen,Denmark,Denmark,C,Forward,RB Leipzig,Leipzig,Germany,RB Leipzig,N
+Willy Caballero,Argentina,Argentina,D,Goalkeeper,Chelsea,London,UK,Chelsea,N
+Franco Armani,Argentina,Argentina,D,Goalkeeper,River Plate,Buenos Aires,Argentina,River Plate,Y
+Nahuel Guzman,Argentina,Argentina,D,Goalkeeper,Tigres,Monterrey,Mexico,Tigres,N
+Gabriel Mercado,Argentina,Argentina,D,Defender,Sevilla,Seville,Spain,Sevilla,N
+Federico Fazio,Argentina,Argentina,D,Defender,Roma,Rome,Italy,Roma,N
+Nicolas Otamendi,Argentina,Argentina,D,Defender,Manchester City,Manchester,UK,Manchester City,N
+Marcos Rojo,Argentina,Argentina,D,Defender,Manchester United,Manchester,UK,Manchester United,N
+Nicolas Taglafico,Argentina,Argentina,D,Defender,Ajax,Amsterdam,Netherlands,Ajax,N
+Javier Mascherano,Argentina,Argentina,D,Defender,Hebei Fortune,Langfang,China,Hebei Fortune,N
+Marcos Acuna,Argentina,Argentina,D,Defender,Sporting Lisbon,Lisbon,Portugal,Sporting Lisbon,N
+Cristian Ansaldi,Argentina,Argentina,D,Defender,Torino,Turin,Italy,Torino,N
+Ever Banega,Argentina,Argentina,D,Midfielder,Sevilla,Seville,Spain,Sevilla,N
+Lucas Biglia,Argentina,Argentina,D,Midfielder,AC Milan,Milan,Italy,AC Milan,N
+Angel Di María,Argentina,Argentina,D,Midfielder,Paris St Germain,Paris,France,Paris St-Germain,N
+Giovani Lo Celso,Argentina,Argentina,D,Midfielder,Paris St Germain,Paris,France,Paris St-Germain,N
+Manuel Lanzini,Argentina,Argentina,D,Midfielder,West Ham,London,UK,West Ham,N
+Cristian Pavon,Argentina,Argentina,D,Midfielder,Boca Juniors,Buenos Aires,Argentina,Boca Juniors,Y
+Maximiliano Meza,Argentina,Argentina,D,Midfielder,Independiente,Buenos Aires,Argentina,Independiente,Y
+Eduardo Salvio,Argentina,Argentina,D,Midfielder,Benfica,Lisbon,Portugal,Benfica,N
+Lionel Messi,Argentina,Argentina,D,Forward,Barcelona,Barcelona,Spain,Barcelona,N
+Gonzalo Higuain,Argentina,Argentina,D,Forward,Juventus,Turin,Italy,Juventus,N
+Paulo Dybala,Argentina,Argentina,D,Forward,Juventus,Turin,Italy,Juventus,N
+Sergio Aguero,Argentina,Argentina,D,Forward,Manchester City,Manchester,UK,Manchester City,N
+Hannes Thor Halldorsson,Iceland,Iceland,D,Goalkeeper,Randers FC,Randers,Denmark,Randers FC,N
+Runar Runarsson,Iceland,Iceland,D,Goalkeeper,FC Nordsjælland,Farum,Denmark,FC Nordsjælland,N
+Frederik Schram,Iceland,Iceland,D,Goalkeeper,FC Roskilde,Roskilde,Denmark,FC Roskilde,N
+Kari Arnason,Iceland,Iceland,D,Defender,Vikingur,Leirvik,Faroe Islands,Vikingur,N
+Ari Skulason,Iceland,Iceland,D,Defender,Lokeren,Lokeren,Belgium,Lokeren,N
+Birkir Saevarsson,Iceland,Iceland,D,Defender,Valur,Reykjavik,Iceland,Valur,Y
+Sverrir Ingason,Iceland,Iceland,D,Defender,FC Rostov,Rostov,Russia,FC Rostov,N
+Hordur Magnusson,Iceland,Iceland,D,Defender,Bristol City,Bristol,UK,Bristol City,N
+Holmar Eyjolfsson,Iceland,Iceland,D,Defender,Levski Sofia,Sofia,Bulgaria,Levski Sofia,N
+Ragnar Sigurdsson,Iceland,Iceland,D,Defender,FC Rostov,Rostov,Russia,FC Rostov,N
+Johann Gudmundsson,Iceland,Iceland,D,Midfielder,Burnley,Burnley,UK,Burnley,N
+Birkir Bjarnason,Iceland,Iceland,D,Midfielder,Aston Villa,Birmingham,UK,Aston Villa,N
+Arnor Traustason,Iceland,Iceland,D,Midfielder,Malmo FF,Malmo,Sweden,Malmo FF,N
+Emil Hallfredsson,Iceland,Iceland,D,Midfielder,Udinese,Udine,Italy,Udinese,N
+Gylfi Sigurdsson,Iceland,Iceland,D,Midfielder,Everton,Liverpool,UK,Everton,N
+Olafur Skulason,Iceland,Iceland,D,Midfielder,Kardemir Karabukspor,Karabuk,Turkey,Kardemir Karabukspor,N
+Rurik Gislason,Iceland,Iceland,D,Midfielder,SV Sandhausen,Heidelberg,Germany,SV Sandhausen,N
+Samuel Fridjonsson,Iceland,Iceland,D,Midfielder,Valerenga,Oslo,Norway,Valerenga,N
+Aron Gunnarsson,Iceland,Iceland,D,Midfielder,Cardiff City,Cardiff,UK,Cardiff City,N
+Alfred Finnbogason,Iceland,Iceland,D,Forward,FC Augsburg,Augsburg,Germany,Augsburg,N
+Bjorn Sigurdarson,Iceland,Iceland,D,Forward,FC Rostov,Rostov,Russia,FC Rostov,N
+Jon Dadi Bodvarsson,Iceland,Iceland,D,Forward,Reading,Reading,UK,Reading,N
+Albert Gudmundsson,Iceland,Iceland,D,Forward,PSV Eindhoven,Eindhoven,Netherlands,PSV Eindhoven,N
+Danijel Subasic,Croatia,Croatia,D,Goalkeeper,Monaco,Monaco,Monaco,Monaco,N
+Lovre Kalinic,Croatia,Croatia,D,Goalkeeper,Gent,Ghent,Belgium,Gent,N
+Dominik Livakovic,Croatia,Croatia,D,Goalkeeper,Dinamo Zagreb,Zagreb,Croatia,Dinamo Zagreb,Y
+Vedran Corluka,Croatia,Croatia,D,Defender,Lokomotiv Moscow,Moscow,Russia,Lokomotiv Moscow,N
+Domagoj Vida,Croatia,Croatia,D,Defender,Besiktas,Istanbul,Turkey,Besiktas,N
+Ivan Strinic,Croatia,Croatia,D,Defender,AC Milan,Milan,Italy,Milan,N
+Dejan Lovren,Croatia,Croatia,D,Defender,Liverpool,Liverpool,UK,Liverpool,N
+Sime Vrsaljko,Croatia,Croatia,D,Defender,Atletico Madrid,Madrid,Spain,Atletico Madrid,N
+Josip Pivaric,Croatia,Croatia,D,Defender,Dynamo Kyiv,Kiev,Ukraine,Dynamo Kiev,N
+Tin Jedvaj,Croatia,Croatia,D,Defender,Bayer Leverkusen,Leverkusen,Germany,Bayer Leverkusen,N
+Duje Caleta-Car,Croatia,Croatia,D,Defender,Red Bull Salzburg,Salzburg,Austria,Red Bull Salzburg,N
+Luka Modric,Croatia,Croatia,D,Midfielder,Real Madrid,Madrid,Spain,Real Madrid,N
+Ivan Rakitic,Croatia,Croatia,D,Midfielder,Barcelona,Barcelona,Spain,Barcelona,N
+Mateo Kovacic,Croatia,Croatia,D,Midfielder,Real Madrid,Madrid,Spain,Real Madrid,N
+Milan Badelj,Croatia,Croatia,D,Midfielder,Fiorentina,Florence,Italy,Fiorentina,N
+Marcelo Brozovic,Croatia,Croatia,D,Midfielder,Inter Milan,Milan,Italy,Inter Milan,N
+Filip Bradaric,Croatia,Croatia,D,Midfielder,Rijeka,Rijeka,Croatia,Rijeka,Y
+Mario Mandzukic,Croatia,Croatia,D,Forward,Juventus,Turin,Italy,Juventus,N
+Ivan Perisic,Croatia,Croatia,D,Forward,Inter Milan,Milan,Italy,Inter Milan,N
+Nikola Kalinic,Croatia,Croatia,D,Forward,AC Milan,Milan,Italy,AC Milan,N
+Andrej Kramaric,Croatia,Croatia,D,Forward,Hoffenheim,Sinsheim,Germany,Hoffenheim,N
+Marko Pjaca,Croatia,Croatia,D,Forward,Juventus,Turin,Italy,Juventus,N
+Ante Rebic,Croatia,Croatia,D,Forward,Fiorentina,Florence,Italy,Fiorentina,N
+Francis Uzoho,Nigeria,Nigeria,D,Goalkeeper,Deportivo La Coruna,A Coruna,Spain,Deportivo La Coruna,N
+Ikechukwu Ezenwa,Nigeria,Nigeria,D,Goalkeeper,Enyimba,Aba,Nigeria,Enyimba,Y
+Daniel Akpeyi,Nigeria,Nigeria,D,Goalkeeper,Chippa United,Port Elizabeth,South Africa,Chippa United,N
+William Troost-Ekong,Nigeria,Nigeria,D,Defender,Bursaspor,Bursa,Turkey,Bursaspor,N
+Abdullahi Shehu,Nigeria,Nigeria,D,Defender,Bursaspor,Bursa,Turkey,Bursaspor,N
+Tyronne Ebuehi,Nigeria,Nigeria,D,Defender,Benfica,Lisbon,Portugal,Benfica,N
+Elderson Echiejile,Nigeria,Nigeria,D,Defender,Cercle Brugge,Bruges,Belgium,Cercle Brugge,N
+Bryan Idowu,Nigeria,Nigeria,D,Defender,Amkar Perm,Perm,Russia,Amkar Perm,N
+Chidozie Awaziem,Nigeria,Nigeria,D,Defender,Porto,Porto,Portugal,Porto,N
+Leon Balogun,Nigeria,Nigeria,D,Defender,Brighton,Brighton,UK,Brighton,N
+Kenneth Omeruo,Nigeria,Nigeria,D,Defender,Chelsea,London,UK,Chelsea,N
+Mikel John Obi,Nigeria,Nigeria,D,Midfielder,Tianjin Teda,Tianjin,China,Tianjin Teda,N
+Ogenyi Onazi,Nigeria,Nigeria,D,Midfielder,Trabzonspor,Trabzon,Turkey,Trabzonspor,N
+Wilfred Ndidi,Nigeria,Nigeria,D,Midfielder,Leicester City,Leicester,UK,Leicester,N
+Oghenekaro Etebo,Nigeria,Nigeria,D,Midfielder,CD Feirense,Santa Maria da Feira,Portugal,CD Feirense,N
+John Ogu,Nigeria,Nigeria,D,Midfielder,Hapoel Be'er Sheva,Beersheba,Israel,Hapoel Be'er Sheva,N
+Joel Obi,Nigeria,Nigeria,D,Midfielder,Torino,Turin,Italy,Torino,N
+Ahmed Musa,Nigeria,Nigeria,D,Forward,Leicester City,Leicester,UK,Leicester,N
+Kelechi Iheanacho,Nigeria,Nigeria,D,Forward,Leicester City,Leicester,UK,Leicester,N
+Victor Moses,Nigeria,Nigeria,D,Forward,Chelsea,London,UK,Chelsea,N
+Odion Ighalo,Nigeria,Nigeria,D,Forward,Changchun Yatai,Changchun,China,Changchun Yatai,N
+Alex Iwobi,Nigeria,Nigeria,D,Forward,Arsenal,London,UK,Arsenal,N
+Simeon Nwankwo,Nigeria,Nigeria,D,Forward,Crotone,Crotone,Italy,Crotone,N
+Alisson,Brazil,Brazil,E,Goalkeeper,Roma,Rome,Italy,Roma,N
+Ederson,Brazil,Brazil,E,Goalkeeper,Manchester City,Manchester,UK,Manchester City,N
+Cassio,Brazil,Brazil,E,Goalkeeper,Corinthians,Sao Paulo,Brazil,Corinthians,Y
+Danilo,Brazil,Brazil,E,Defender,Manchester City,Manchester,UK,Manchester City,N
+Fagner,Brazil,Brazil,E,Defender,Corinthians,Sao Paulo,Brazil,Corinthians,Y
+Marcelo,Brazil,Brazil,E,Defender,Real Madrid,Madrid,Spain,Real Madrid,N
+Filipe Luis,Brazil,Brazil,E,Defender,Atletico Madrid,Madrid,Spain,Atletico Madrid,N
+Thiago Silva,Brazil,Brazil,E,Defender,Paris St Germain,Paris,France,Paris St-Germain,N
+Marquinhos,Brazil,Brazil,E,Defender,Paris St Germain,Paris,France,Paris St-Germain,N
+Miranda,Brazil,Brazil,E,Defender,Inter Milan,Milan,Italy,Inter Milan,N
+Pedro Geromel,Brazil,Brazil,E,Defender,Gremio,Porto Alegre,Brazil,Gremio,Y
+Casemiro,Brazil,Brazil,E,Midfielder,Real Madrid,Madrid,Spain,Real Madrid,N
+Fernandinho,Brazil,Brazil,E,Midfielder,Manchester City,Manchester,UK,Manchester City,N
+Paulinho,Brazil,Brazil,E,Midfielder,Barcelona,Barcelona,Spain,Barcelona,N
+Fred,Brazil,Brazil,E,Midfielder,Shakhtar Donetsk,Donetsk,Ukraine,Shakhtar Donetsk,N
+Renato Augusto,Brazil,Brazil,E,Midfielder,Beijing Guoan,Beijing,China,Beijing Guoan,N
+Philippe Coutinho,Brazil,Brazil,E,Midfielder,Barcelona,Barcelona,Spain,Barcelona,N
+Willian,Brazil,Brazil,E,Midfielder,Chelsea,London,UK,Chelsea,N
+Douglas Costa,Brazil,Brazil,E,Midfielder,Juventus,Turin,Italy,Juventus,N
+Neymar Jr,Brazil,Brazil,E,Forward,Paris St Germain,Paris,France,Paris St-Germain,N
+Taison,Brazil,Brazil,E,Forward,Shakhtar Donetsk,Donetsk,Ukraine,Shakhtar Donetsk,N
+Gabriel Jesus,Brazil,Brazil,E,Forward,Manchester City,Manchester,UK,Manchester City,N
+Roberto Firmino,Brazil,Brazil,E,Forward,Liverpool,Liverpool,UK,Liverpool,N
+Roman Buerki,Switzerland,Switzerland,E,Goalkeeper,Borussia Dortmund,Dortmund,Germany,Borussia Dortmund,N
+Yvon Mvogo,Switzerland,Switzerland,E,Goalkeeper,RB Leipzig,Leipzig,Germany,Leipzig,N
+Yann Sommer,Switzerland,Switzerland,E,Goalkeeper,Borussia Monchengladbach,Monchengladbach,Germany,Borussia Monchengladbach,N
+Manuel Akanji,Switzerland,Switzerland,E,Defender,Borussia Dortmund,Dortmund,Germany,Borussia Dortmund,N
+Johan Djourou,Switzerland,Switzerland,E,Defender,Antalyaspor,Antalya,Turkey,Antalyaspor,N
+Nico Elvedi,Switzerland,Switzerland,E,Defender,Borussia Monchengladbach,Monchengladbach,Germany,Borussia Monchengladbach,N
+Michael Lang,Switzerland,Switzerland,E,Defender,FC Basel,Basel,Switzerland,Basel,Y
+Stephan Lichtsteiner,Switzerland,Switzerland,E,Defender,Juventus,Turin,Italy,Juventus,N
+Jacques-Francois Moubandje,Switzerland,Switzerland,E,Defender,Toulouse,Toulouse,France,Toulouse,N
+Ricardo Rodriguez,Switzerland,Switzerland,E,Defender,AC Milan,Milan,Italy,Milan,N
+Fabian Schaer,Switzerland,Switzerland,E,Defender,Deportivo La Coruna,A Coruna,Spain,Deportivo La Coruna,N
+Valon Behrami,Switzerland,Switzerland,E,Midfielder,Udinese,Udine,Italy,Udinese,N
+Blerim Dzemaili,Switzerland,Switzerland,E,Midfielder,Bologna,Bologna,Italy,Bologna,N
+Gelson Fernandes,Switzerland,Switzerland,E,Midfielder,Eintracht Frankfurt,Frankfurt,Germany,Eintracht Frankfurt,N
+Remo Freuler,Switzerland,Switzerland,E,Midfielder,Atalanta,Bergamo,Italy,Atalanta,N
+Xherdan Shaqiri,Switzerland,Switzerland,E,Midfielder,Stoke City,Stoke-on-Trent,UK,Stoke City,N
+Granit Xhaka,Switzerland,Switzerland,E,Midfielder,Arsenal,London,UK,Arsenal,N
+Steven Zuber,Switzerland,Switzerland,E,Midfielder,Hoffenheim,Sinsheim,Germany,1899 Hoffenheim,N
+Denis Zakaria,Switzerland,Switzerland,E,Midfielder,Borussia Monchengladbach,Monchengladbach,Germany,Borussia Monchengladbach,N
+Josip Drmic,Switzerland,Switzerland,E,Forward,Borussia Monchengladbach,Monchengladbach,Germany,Borussia Monchengladbach,N
+Breel Embolo,Switzerland,Switzerland,E,Forward,Schalke 04,Gelsenkirchen,Germany,Schalke,N
+Mario Gavranovic,Switzerland,Switzerland,E,Forward,Dinamo Zagreb,Zagreb,Croatia,Dinamo Zagreb,N
+Haris Seferovic,Switzerland,Switzerland,E,Forward,Benfica,Lisbon,Portugal,Benfica,N
+Keylor Navas,Costa Rica,Costa Rica,E,Goalkeeper,Real Madrid,Madrid,Spain,Real Madrid,N
+Patrick Pemberton,Costa Rica,Costa Rica,E,Goalkeeper,Alajuelense,Alajuela,Costa Rica,Liga Deportiva Alajuelense,Y
+Leonel Moreira,Costa Rica,Costa Rica,E,Goalkeeper,Herediano,Heredia,Costa Rica,CS Herediano,Y
+Cristian Gamboa,Costa Rica,Costa Rica,E,Defender,Celtic,Glasgow,UK,Celtic,N
+Ian Smith,Costa Rica,Costa Rica,E,Defender,Santos de Guapiles,Guapiles,Costa Rica,Santos de Guapiles,Y
+Ronald Matarrita,Costa Rica,Costa Rica,E,Defender,New York City,New York,USA,New York City,N
+Bryan Oviedo,Costa Rica,Costa Rica,E,Defender,Sunderland,Sunderland,UK,Sunderland,N
+Oscar Duarte,Costa Rica,Costa Rica,E,Defender,Espanyol,Barcelona,Spain,Espanyol,N
+Giancarlo Gonzalez,Costa Rica,Costa Rica,E,Defender,Bologna,Bologna,Italy,Bologna,N
+Francisco Calvo,Costa Rica,Costa Rica,E,Defender,Minnesota United,Minneapolis,USA,Minnesota United,N
+Kendall Waston,Costa Rica,Costa Rica,E,Defender,Vancouver Whitecaps,Vancouver,Canada,Vancouver Whitecaps,N
+Johnny Acosta,Costa Rica,Costa Rica,E,Defender,Rionegro Aguilas,Rionegro,Colombia,Rionegro Aguilas,N
+David Guzman,Costa Rica,Costa Rica,E,Midfielder,Portland Timbers,Portland,USA,Portland Timbers,N
+Yeltsin Tejeda,Costa Rica,Costa Rica,E,Midfielder,Lausanne-Sport,Lausanne,Switzerland,Lausanne-Sport,N
+Celso Borges,Costa Rica,Costa Rica,E,Midfielder,Deportivo La Coruna,A Coruna,Spain,Deportivo La Coruna,N
+Randall Azofeifa,Costa Rica,Costa Rica,E,Midfielder,Herediano,Heredia,Costa Rica,CS Herediano,Y
+Rodney Wallace,Costa Rica,Costa Rica,E,Midfielder,New York City,New York,USA,New York City,N
+Bryan Ruiz,Costa Rica,Costa Rica,E,Midfielder,Sporting Lisbon,Lisbon,Portugal,Sporting Lisbon,N
+Daniel Colindres,Costa Rica,Costa Rica,E,Midfielder,Deportivo Saprissa,San Jose,Costa Rica,Deportivo Saprissa,Y
+Christian Bolanos,Costa Rica,Costa Rica,E,Midfielder,Deportivo Saprissa,San Jose,Costa Rica,Deportivo Saprissa,Y
+Johan Venegas,Costa Rica,Costa Rica,E,Forward,Deportivo Saprissa,San Jose,Costa Rica,Deportivo Saprissa,Y
+Joel Campbell,Costa Rica,Costa Rica,E,Forward,Real Betis,Seville,Spain,Real Betis,N
+Marco Urena,Costa Rica,Costa Rica,E,Forward,Los Angeles FC,Los Angeles,USA,Los Angeles FC,N
+Vladimir Stojkovic,Serbia,Serbia,E,Goalkeeper,Partizan Belgrade,Belgrade,Serbia,Partizan Belgrade,Y
+Predrag Rajkovic,Serbia,Serbia,E,Goalkeeper,Maccabi Tel Aviv,Tel Aviv,Israel,Maccabi Tel Aviv,N
+Marko Dmitrovic,Serbia,Serbia,E,Goalkeeper,Eibar,Eibar,Spain,Eibar,N
+Aleksandar Kolarov,Serbia,Serbia,E,Defender,Roma,Rome,Italy,Roma,N
+Branislav Ivanovic,Serbia,Serbia,E,Defender,Zenit St Petersburg,St Petersburg,Russia,Zenit St Petersburg,N
+Dusko Tosic,Serbia,Serbia,E,Defender,Guangzhou R&F,Guangzhou,China,Guangzhou R&F,N
+Antonio Rukavina,Serbia,Serbia,E,Defender,Villarreal,Villarreal,Spain,Villarreal,N
+Milos Veljkovic,Serbia,Serbia,E,Defender,Werder Bremen,Bremen,Germany,Werder Bremen,N
+Milan Rodic,Serbia,Serbia,E,Defender,Red Star Belgrade,Belgrade,Serbia,Red Star Belgrade,Y
+Uros Spajic,Serbia,Serbia,E,Defender,Krasnodar,Krasnodar,Russia,Krasnodar,N
+Nikola Milenkovic,Serbia,Serbia,E,Defender,Fiorentina,Florence,Italy,Fiorentina,N
+Nemanja Matic,Serbia,Serbia,E,Midfielder,Manchester United,Manchester,UK,Manchester United,N
+Luka Milivojevic,Serbia,Serbia,E,Midfielder,Crystal Palace,London,UK,Crystal Palace,N
+Sergej Milinkovic-Savic,Serbia,Serbia,E,Midfielder,Lazio,Rome,Italy,Lazio,N
+Marko Grujic,Serbia,Serbia,E,Midfielder,Liverpool,Liverpool,UK,Liverpool,N
+Adem Ljajic,Serbia,Serbia,E,Midfielder,Torino,Turin,Italy,Torino,N
+Dusan Tadic,Serbia,Serbia,E,Midfielder,Southampton,Southampton,UK,Southampton,N
+Filip Kostic,Serbia,Serbia,E,Midfielder,Hamburg,Hamburg,Germany,Hamburg,N
+Andrija Zivkovic,Serbia,Serbia,E,Midfielder,Benfica,Lisbon,Portugal,Benfica,N
+Nemanja Radonjic,Serbia,Serbia,E,Midfielder,Red Star Belgrade,Belgrade,Serbia,Red Star Belgrade,Y
+Aleksandar Mitrovic,Serbia,Serbia,E,Forward,Newcastle United,Newcastle,UK,Newcastle United,N
+Aleksandar Prijovic,Serbia,Serbia,E,Forward,PAOK Salonika,Thessaloniki,Greece,PAOK Salonika,N
+Luka Jovic,Serbia,Serbia,E,Forward,Benfica,Lisbon,Portugal,Benfica,N
+Manuel Neuer,Germany,Germany,F,Goalkeeper,Bayern Munich,Munich,Germany,Bayern Munich,Y
+Marc-Andre ter Stegen,Germany,Germany,F,Goalkeeper,Barcelona,Barcelona,Spain,Barcelona,N
+Kevin Trapp,Germany,Germany,F,Goalkeeper,Paris St Germain,Paris,France,Paris St-Germain,N
+Jerome Boateng,Germany,Germany,F,Defender,Bayern Munich,Munich,Germany,Bayern Munich,Y
+Matthias Ginter,Germany,Germany,F,Defender,Borussia Monchengladbach,Monchengladbach,Germany,Borussia Monchengladbach,Y
+Jonas Hector,Germany,Germany,F,Defender,Cologne,Cologne,Germany,Cologne,Y
+Mats Hummels,Germany,Germany,F,Defender,Bayern Munich,Munich,Germany,Bayern Munich,Y
+Joshua Kimmich,Germany,Germany,F,Defender,Bayern Munich,Munich,Germany,Bayern Munich,Y
+Marvin Plattenhardt,Germany,Germany,F,Defender,Hertha Berlin,Berlin,Germany,Hertha Berlin,Y
+Antonio Rudiger,Germany,Germany,F,Defender,Chelsea,London,UK,Chelsea,N
+Niklas Sule,Germany,Germany,F,Defender,Bayern Munich,Munich,Germany,Bayern Munich,Y
+Julian Brandt,Germany,Germany,F,Midfielder,Bayer Leverkusen,Leverkusen,Germany,Bayer Leverkusen,Y
+Julian Draxler,Germany,Germany,F,Midfielder,Paris St Germain,Paris,France,Paris St-Germain,N
+Leon Goretska,Germany,Germany,F,Midfielder,Schalke 04,Gelsenkirchen,Germany,Schalke,Y
+Ilkay Gundogan,Germany,Germany,F,Midfielder,Manchester City,Manchester,UK,Manchester City,N
+Sami Khedira,Germany,Germany,F,Midfielder,Juventus,Turin,Italy,Juventus,N
+Toni Kroos,Germany,Germany,F,Midfielder,Real Madrid,Madrid,Spain,Real Madrid,N
+Mesut Ozil,Germany,Germany,F,Midfielder,Arsenal,London,UK,Arsenal,N
+Sebastian Rudy,Germany,Germany,F,Midfielder,Bayern Munich,Munich,Germany,Bayern Munich,Y
+Mario Gomez,Germany,Germany,F,Forward,Stuttgart,Stuttgart,Germany,Stuttgart,Y
+Thomas Muller,Germany,Germany,F,Forward,Bayern Munich,Munich,Germany,Bayern Munich,Y
+Marco Reus,Germany,Germany,F,Forward,Borussia Dortmund,Dortmund,Germany,Borussia Dortmund,Y
+Timo Werner,Germany,Germany,F,Forward,RB Leipzig,Leipzig,Germany,RB Leipzig,Y
+Guillermo Ochoa,Mexico,Mexico,F,Goalkeeper,Standard Liege,Liege,Belgium,Standard Liege,N
+Alfredo Talavera,Mexico,Mexico,F,Goalkeeper,Toluca,Toluca,Mexico,Toluca,Y
+Jesus Corona,Mexico,Mexico,F,Goalkeeper,Cruz Azul,Mexico City,Mexico,Cruz Azul,Y
+Carlos Salcedo,Mexico,Mexico,F,Defender,Eintracht Frankfurt,Frankfurt,Germany,Eintracht Frankfurt,N
+Diego Reyes,Mexico,Mexico,F,Defender,Porto,Porto,Portugal,Porto,N
+Hector Moreno,Mexico,Mexico,F,Defender,Real Sociedad,San Sebastian,Spain,Real Sociedad,N
+Hugo Ayala,Mexico,Mexico,F,Defender,Tigres,Monterrey,Mexico,Tigres,Y
+Edson Alvarez,Mexico,Mexico,F,Defender,America,Mexico City,Mexico,America,Y
+Jesus Gallardo,Mexico,Mexico,F,Defender,Monterrey,Monterrey,Mexico,Monterrey,Y
+Miguel Layun,Mexico,Mexico,F,Defender,Sevilla,Seville,Spain,Sevilla,N
+Rafael Marquez,Mexico,Mexico,F,Midfielder,Atlas,Guadalajara,Mexico,Atlas,Y
+Hector Herrera,Mexico,Mexico,F,Midfielder,Porto,Porto,Portugal,Porto,N
+Jonathan dos Santos,Mexico,Mexico,F,Midfielder,LA Galaxy,Los Angeles,USA,LA Galaxy,N
+Giovani dos Santos,Mexico,Mexico,F,Midfielder,LA Galaxy,Los Angeles,USA,LA Galaxy,N
+Andres Guardado,Mexico,Mexico,F,Midfielder,Real Betis,Seville,Spain,Real Betis,N
+Javier Aquino,Mexico,Mexico,F,Midfielder,Tigres,Monterrey,Mexico,Tigres,Y
+Jesus Corona,Mexico,Mexico,F,Midfielder,Porto,Porto,Portugal,Porto,N
+Javier Hernandez,Mexico,Mexico,F,Forward,West Ham,London,UK,West Ham,N
+Raul Jimenez,Mexico,Mexico,F,Forward,Benfica,Lisbon,Portugal,Benfica,N
+Oribe Peralta,Mexico,Mexico,F,Forward,America,Mexico City,Mexico,America,Y
+Carlos Vela,Mexico,Mexico,F,Forward,Los Angeles FC,Los Angeles,USA,Los Angeles FC,N
+Hirving Lozano,Mexico,Mexico,F,Forward,PSV Eindhoven,Eindhoven,Netherlands,PSV Eindhoven,N
+Marco Fabian,Mexico,Mexico,F,Forward,Eintracht Frankfurt,Frankfurt,Germany,Eintracht Frankfurt,N
+Robin Olsen,Sweden,Sweden,F,Goalkeeper,FC Copenhagen,Copenhagen,Denmark,Copenhagen,N
+Karl-Johan Johnsson,Sweden,Sweden,F,Goalkeeper,Guingamp,Guingamp,France,Guingamp,N
+Kristoffer Nordfeldt,Sweden,Sweden,F,Goalkeeper,Swansea City,Swansea,UK,Swansea,N
+Mikael Lustig,Sweden,Sweden,F,Defender,Celtic,Glasgow,UK,Celtic,N
+Victor Lindelof,Sweden,Sweden,F,Defender,Manchester United,Manchester,UK,Manchester United,N
+Andreas Granqvist,Sweden,Sweden,F,Defender,Krasnodar,Krasnodar,Russia,Krasnador,N
+Martin Olsson,Sweden,Sweden,F,Defender,Swansea City,Swansea,UK,Swansea,N
+Ludwig Augustinsson,Sweden,Sweden,F,Defender,Werder Bremen,Bremen,Germany,Werder Bremen,N
+Filip Helander,Sweden,Sweden,F,Defender,Bologna,Bologna,Italy,Bologna,N
+Emil Krafth,Sweden,Sweden,F,Defender,Bologna,Bologna,Italy,Bologna,N
+Pontus Jansson,Sweden,Sweden,F,Defender,Leeds United,Leeds,UK,Leeds United,N
+Sebastian Larsson,Sweden,Sweden,F,Midfielder,Hull City,Hull,UK,Hull,N
+Albin Ekdal,Sweden,Sweden,F,Midfielder,Hamburg,Hamburg,Germany,Hamburg,N
+Emil Forsberg,Sweden,Sweden,F,Midfielder,RB Leipzig,Leipzig,Germany,RB Leipzig,N
+Gustav Svensson,Sweden,Sweden,F,Midfielder,Seattle Sounders,Seattle,USA,Seattle Sounders,N
+Oscar Hiljemark,Sweden,Sweden,F,Midfielder,Genoa,Genoa,Italy,Genoa,N
+Viktor Claesson,Sweden,Sweden,F,Midfielder,Krasnodar,Krasnodar,Russia,Krasnador,N
+Marcus Rohden,Sweden,Sweden,F,Midfielder,Crotone,Crotone,Italy,Crotone,N
+Jimmy Durmaz,Sweden,Sweden,F,Midfielder,Toulouse,Toulouse,France,Toulouse,N
+Marcus Berg,Sweden,Sweden,F,Forward,Al-Ain,Abu Dhabi,UAE,Al Ain,N
+John Guidetti,Sweden,Sweden,F,Forward,Alaves,Vitoria-Gasteiz,Spain,Alaves,N
+Ola Toivonen,Sweden,Sweden,F,Forward,Toulouse,Toulouse,France,Toulouse,N
+Isaac Kiese Thelin,Sweden,Sweden,F,Forward,Waasland-Beveren,Beveren,Belgium,Waasland-Beveren,N
+Kim Seung-gyu,South Korea,South Korea,F,Goalkeeper,Vissel Kobe,Kobe,Japan,Vissel Kobe,N
+Kim Jin-hyeon,South Korea,South Korea,F,Goalkeeper,Cerezo Osaka,Osaka,Japan,Cerezo Osaka,N
+Cho Hyun-woo,South Korea,South Korea,F,Goalkeeper,Daegu FC,Daegu,South Korea,Daegu FC,Y
+Kim young-gwon,South Korea,South Korea,F,Defender,Guangzhou Evergrande,Guangzhou,China,Guangzhou Evergrande,N
+Jang Hyun-soo,South Korea,South Korea,F,Defender,FC Tokyo,Tokyo,Japan,FC Tokyo,N
+Jung Seung-hyun,South Korea,South Korea,F,Defender,Sagan Tosu,Tosu,Japan,Sagan Tosu,N
+Yun Yong-sun,South Korea,South Korea,F,Defender,Seongnam FC,Seongnam,South Korea,Seongnam FC,Y
+Oh Ban-suk,South Korea,South Korea,F,Defender,Jeju United,Jeju,South Korea,Jeju United,Y
+Kim Min-woo,South Korea,South Korea,F,Defender,Sangju Sangmu,Sangju,South Korea,Sangju Sangmu,Y
+Park Joo-ho,South Korea,South Korea,F,Defender,Ulsan Hyundai,Ulsan,South Korea,Ulsan Hyundai,Y
+Hong Chul,South Korea,South Korea,F,Defender,Sangju Sangmu,Sangju,South Korea,Sangju Sangmu,Y
+Go Yo-han,South Korea,South Korea,F,Defender,FC Seoul,Seoul,South Korea,FC Seoul,Y
+Lee Yong,South Korea,South Korea,F,Defender,Jeonbuk Hyundai,Jeonju,South Korea,Jeonbuk Hyundai Motors,Y
+Ki Sung-yueng,South Korea,South Korea,F,Midfielder,Swansea City,Swansea,UK,Swansea,N
+Jung Woo-young,South Korea,South Korea,F,Midfielder,Vissel Kobe,Kobe,Japan,Vissel Kobe,N
+Ju Se-jong,South Korea,South Korea,F,Midfielder,Asan Mugunghwa,Asan,South Korea,Asan Mugunghwa,Y
+Koo Ja-cheol,South Korea,South Korea,F,Midfielder,FC Augsburg,Augsburg,Germany,Augsburg,N
+Lee Jae-sung,South Korea,South Korea,F,Midfielder,Jeonbuk Hyundai,Jeonju,South Korea,Jeonbuk Hyundai Motors,Y
+Lee Seung-woo,South Korea,South Korea,F,Midfielder,Hellas Verona,Verona,Italy,Hellas Verona,N
+Moon Seon-min,South Korea,South Korea,F,Midfielder,Incheon United,Incheon,South Korea,Incheon United,Y
+Kim Shin-wook,South Korea,South Korea,F,Forward,Jeonbuk Hyundai,Jeonju,South Korea,Jeonbuk Hyundai Motors,Y
+Son Heung-min,South Korea,South Korea,F,Forward,Tottenham Hotspur,London,UK,Tottenham,N
+Hwang Hee-chan,South Korea,South Korea,F,Forward,Red Bull Salzburg,Salzburg,Austria,Red Bull Salzburg,N
+Koen Casteels,Belgium,Belgium,G,Goalkeeper,Wolfsburg,Wolfsburg,Germany,Wolfsburg,N
+Thibaut Courtois,Belgium,Belgium,G,Goalkeeper,Chelsea,London,UK,Chelsea,N
+Simon Mignolet,Belgium,Belgium,G,Goalkeeper,Liverpool,Liverpool,UK,Liverpool,N
+Toby Alderweireld,Belgium,Belgium,G,Defender,Tottenham Hotspur,London,UK,Tottenham,N
+Dedryck Boyata,Belgium,Belgium,G,Defender,Celtic,Glasgow,UK,Celtic,N
+Vincent Kompany,Belgium,Belgium,G,Defender,Manchester City,Manchester,UK,Manchester City,N
+Thomas Meunier,Belgium,Belgium,G,Defender,Paris St Germain,Paris,France,Paris St-Germain,N
+Thomas Vermaelen,Belgium,Belgium,G,Defender,Barcelona,Barcelona,Spain,Barcelona,N
+Jan Vertonghen,Belgium,Belgium,G,Defender,Tottenham Hotspur,London,UK,Tottenham,N
+Yannick Carrasco,Belgium,Belgium,G,Midfielder,Dalian Yifang,Dalian,China,Dalian Yifang,N
+Kevin de Bruyne,Belgium,Belgium,G,Midfielder,Manchester City,Manchester,UK,Manchester City,N
+Mousa Dembele,Belgium,Belgium,G,Midfielder,Tottenham Hotspur,London,UK,Tottenham,N
+Leander Dendoncker,Belgium,Belgium,G,Midfielder,Anderlecht,Anderlecht,Belgium,Anderlecht,Y
+Marouane Fellaini,Belgium,Belgium,G,Midfielder,Manchester United,Manchester,UK,Manchester United,N
+Eden Hazard,Belgium,Belgium,G,Midfielder,Chelsea,London,UK,Chelsea,N
+Thorgan Hazard,Belgium,Belgium,G,Midfielder,Borussia Monchengladbach,Monchengladbach,Germany,Borussia Monchengladbach,N
+Adnan Januzaj,Belgium,Belgium,G,Midfielder,Real Sociedad,San Sebastian,Spain,Real Sociedad,N
+Youri Tielemans,Belgium,Belgium,G,Midfielder,Monaco,Monaco,Monaco,Monaco,N
+Axel Witsel,Belgium,Belgium,G,Midfielder,Tianjin Quanjian,Tianjin,China,Tianjin Quanjian,N
+Michy Batshuayi,Belgium,Belgium,G,Forward,Chelsea,London,UK,Chelsea,N
+Nacer Chadli,Belgium,Belgium,G,Forward,West Brom,West Bromwich,UK,West Brom,N
+Romelu Lukaku,Belgium,Belgium,G,Forward,Manchester United,Manchester,UK,Manchester United,N
+Dries Mertens,Belgium,Belgium,G,Forward,Napoli,Naples,Italy,Napoli,N
+Jose Calderon,Panama,Panama,G,Goalkeeper,Chorrillo,Panama City,Panama,Chorrillo,Y
+Jaime Penedo,Panama,Panama,G,Goalkeeper,Dinamo Bucharest,Bucharest,Romania,Dinamo Bucharest,N
+Alex Rodriguez,Panama,Panama,G,Goalkeeper,San Francisco,San Francisco,USA,San Francisco,N
+Felipe Baloy,Panama,Panama,G,Defender,Municipal,Guatemala City,Guatemala,Municipal CSD,N
+Harold Cummings,Panama,Panama,G,Defender,San Jose Earthquakes,San Jose,USA,San Jose Earthquakes,N
+Erick Davis,Panama,Panama,G,Defender,Dunajska Streda,Dunajska Streda,Slovakia,Dunajska Streda,N
+Fidel Escobar,Panama,Panama,G,Defender,San Miguelito,San Miguelito,Panama,San Miguelito,Y
+Michael Murillo,Panama,Panama,G,Defender,New York Red Bulls,New York,USA,New York Red Bulls,N
+Adolfo Machado,Panama,Panama,G,Defender,Houston Dynamo,Houston,USA,Houston Dynamo,N
+Luis Ovalle,Panama,Panama,G,Defender,Olimpia,Asuncion,Paraguay,Olimpia,N
+Roman Torres,Panama,Panama,G,Defender,Seattle Sounders,Seattle,USA,Seattle Sounders,N
+Jose Luis Rodriguez,Panama,Panama,G,Midfielder,Gent,Ghent,Belgium,Gent,N
+Yoel Barcenas,Panama,Panama,G,Midfielder,Cafetaleros de Tapachula,Tapachula,Mexico,Cafetaleros de Tapachula,N
+Armando Cooper,Panama,Panama,G,Midfielder,Universidad de Chile,Santiago,Chile,Universidad de Chile,N
+Anibal Godoy,Panama,Panama,G,Midfielder,San Jose Earthquakes,San Jose,USA,San Jose Earthquakes,N
+Gabriel Gomez,Panama,Panama,G,Midfielder,Bucaramanga,Bucaramanga,Colombia,Bucaramanga,N
+Valentin Pimentel,Panama,Panama,G,Midfielder,Plaza Amador,Panama City,Panama,Plaza Amador,Y
+Alberto Quintero,Panama,Panama,G,Midfielder,Universitario,Lima,Peru,Universitario,N
+Abdiel Arroyo,Panama,Panama,G,Forward,Alajuelense,Alajuela,Costa Rica,Alajuelense,N
+Ismael Diaz,Panama,Panama,G,Forward,Deportivo La Coruna,A Coruna,Spain,Deportivo La Coruna,N
+Blas Perez,Panama,Panama,G,Forward,Municipal,Guatemala City,Guatemala,Municipal,N
+Luis Tejada,Panama,Panama,G,Forward,Sports Boys,Callao,Peru,Sports Boys,N
+Gabriel Torres,Panama,Panama,G,Forward,Huachipato,Talcahuano,Chile,CD Huachipato,N
+Farouk Ben Mustapha,Tunisia,Tunisia,G,Goalkeeper,Al-Shabab,Riyadh,Saudi Arabia,Al Shabab,N
+Mouez Hassen,Tunisia,Tunisia,G,Goalkeeper,Nice,Nice,France,Nice,N
+Aymen Mathlouthi,Tunisia,Tunisia,G,Goalkeeper,Al-Baten,Hafar Al-Batin,Saudi Arabia,Al Baten,N
+Rami Bedoui,Tunisia,Tunisia,G,Defender,Etoile Sportive du Sahel,Sousse,Tunisia,Etoile du Sahel,Y
+Yohan Benalouane,Tunisia,Tunisia,G,Defender,Leicester City,Leicester,UK,Leicester,N
+Syam Ben Youssef,Tunisia,Tunisia,G,Defender,Kasimpasa,Istanbul,Turkey,Kasimpasa,N
+Dylan Bronn,Tunisia,Tunisia,G,Defender,Gent,Ghent,Belgium,Gent,N
+Oussama Haddadi,Tunisia,Tunisia,G,Defender,Dijon,Dijon,France,Dijon,N
+Ali Maaloul,Tunisia,Tunisia,G,Defender,Al-Ahly,Cairo,Egypt,Al Ahly,N
+Yassine Meriah,Tunisia,Tunisia,G,Defender,CS Sfaxien,Sfax,Tunisia,CS Sfaxien,Y
+Hamdi Nagguez,Tunisia,Tunisia,G,Defender,Zamalek,Giza,Egypt,Zamalek,N
+Wahbi Khazri,Tunisia,Tunisia,G,Midfielder,Rennes,Rennes,France,Rennes,N
+Anice Badri,Tunisia,Tunisia,G,Midfielder,Esperance,Tunis,Tunisia,Esperance,Y
+Mohamed Amine Ben Amor,Tunisia,Tunisia,G,Midfielder,Etoile Sportive du Sahel,Sousse,Tunisia,Etoile Sportive du Sahel,Y
+Ferjani Sassi,Tunisia,Tunisia,G,Midfielder,Al-Nasr,Dubai,UAE,Al Nasr,N
+Ellyes Skhiri,Tunisia,Tunisia,G,Midfielder,Montpellier,Montpellier,France,Montpellier,N
+Saifeddine Khaoui,Tunisia,Tunisia,G,Forward,Marseille,Marseille,France,Marseille,N
+Fakhreddine Ben Youssef,Tunisia,Tunisia,G,Forward,Al-Ettifaq,Dammam,Saudi Arabia,Al Ettifaq,N
+Saber Khalifa,Tunisia,Tunisia,G,Forward,Club Africain,Tunis,Tunisia,Club Africain,Y
+Bassem Srarfi,Tunisia,Tunisia,G,Forward,Nice,Nice,France,Nice,N
+Naim Sliti,Tunisia,Tunisia,G,Forward,Lille OSC,Lille,France,Lille,N
+Ahmed Khalil,Tunisia,Tunisia,G,Forward,Club Africain,Tunis,Tunisia,Club Africain,Y
+Ghaylen Chaaleli,Tunisia,Tunisia,G,Forward,Esperance,Tunis,Tunisia,Esperance,Y
+Jack Butland,England,UK,G,Goalkeeper,Stoke City,Stoke-on-Trent,UK,Stoke,Y
+Jordan Pickford,England,UK,G,Goalkeeper,Everton,Liverpool,UK,Everton,Y
+Nick Pope,England,UK,G,Goalkeeper,Burnley,Burnley,UK,Burnley,Y
+Trent Alexander-Arnold,England,UK,G,Defender,Liverpool,Liverpool,UK,Liverpool,Y
+Gary Cahill,England,UK,G,Defender,Chelsea,London,UK,Chelsea,Y
+Fabian Delph,England,UK,G,Defender,Manchester City,Manchester,UK,Manchester City,Y
+Phil Jones,England,UK,G,Defender,Manchester United,Manchester,UK,Manchester United,Y
+Harry Maguire,England,UK,G,Defender,Leicester City,Leicester,UK,Leicester,Y
+Danny Rose,England,UK,G,Defender,Tottenham Hotspur,London,UK,Tottenham,Y
+John Stones,England,UK,G,Defender,Manchester City,Manchester,UK,Manchester City,Y
+Kieran Trippier,England,UK,G,Defender,Tottenham Hotspur,London,UK,Tottenham,Y
+Kyle Walker,England,UK,G,Defender,Manchester City,Manchester,UK,Manchester City,Y
+Ashley Young,England,UK,G,Defender,Manchester United,Manchester,UK,Manchester United,Y
+Dele Alli,England,UK,G,Midfielder,Tottenham Hotspur,London,UK,Tottenham,Y
+Eric Dier,England,UK,G,Midfielder,Tottenham Hotspur,London,UK,Tottenham,Y
+Jordan Henderson,England,UK,G,Midfielder,Liverpool,Liverpool,UK,Liverpool,Y
+Jesse Lingard,England,UK,G,Midfielder,Manchester United,Manchester,UK,Manchester United,Y
+Ruben Loftus-Cheek,England,UK,G,Midfielder,Chelsea,London,UK,Chelsea,Y
+Harry Kane,England,UK,G,Forward,Tottenham Hotspur,London,UK,Tottenham,Y
+Marcus Rashford,England,UK,G,Forward,Manchester United,Manchester,UK,Manchester United,Y
+Raheem Sterling,England,UK,G,Forward,Manchester City,Manchester,UK,Manchester City,Y
+Jamie Vardy,England,UK,G,Forward,Leicester City,Leicester,UK,Leicester,Y
+Danny Welbeck,England,UK,G,Forward,Arsenal,London,UK,Arsenal,Y
+Bartosz Bialkowski,Poland,Poland,H,Goalkeeper,Ipswich,Ipswich,UK,Ipswich,N
+Lukasz Fabianski,Poland,Poland,H,Goalkeeper,Swansea City,Swansea,UK,Swansea City,N
+Wojciech Szczesny,Poland,Poland,H,Goalkeeper,Juventus,Turin,Italy,Juventus,N
+Jan Bednarek,Poland,Poland,H,Defender,Southampton,Southampton,UK,Southampton,N
+Bartosz Bereszynski,Poland,Poland,H,Defender,Sampdoria,Genoa,Italy,Sampdoria,N
+Thiago Cionek,Poland,Poland,H,Defender,SPAL,Ferrara,Italy,SPAL,N
+Kamil Glik,Poland,Poland,H,Defender,Monaco,Monaco,Monaco,Monaco,N
+Artur Jedrzejczyk,Poland,Poland,H,Defender,Legia Warsaw,Warsaw,Poland,Legia Warsaw,Y
+Michal Pazdan,Poland,Poland,H,Defender,Legia Warsaw,Warsaw,Poland,Legia Warsaw,Y
+Lukasz Piszczek,Poland,Poland,H,Defender,Borussia Dortmund,Dortmund,Germany,Borussia Dortmund,N
+Jakub Blaszczykowski,Poland,Poland,H,Midfielder,Wolfsburg,Wolfsburg,Germany,Wolfsburg,N
+Jacek Goralski,Poland,Poland,H,Midfielder,Ludogorets Razgrad,Razgrad,Bulgaria,Ludogorets Razgrad,N
+Kamil Grosicki,Poland,Poland,H,Midfielder,Hull City,Hull,UK,Hull City,N
+Grzegorz Krychowiak,Poland,Poland,H,Midfielder,Paris St Germain,Paris,France,Paris St-Germain,N
+Rafal Kurzawa,Poland,Poland,H,Midfielder,Gornik Zabrze,Zabrze,Poland,Gornik Zabrze,Y
+Karol Linetty,Poland,Poland,H,Midfielder,Sampdoria,Genoa,Italy,Sampdoria,N
+Slawomir Peszko,Poland,Poland,H,Midfielder,Lechnia Gdansk,Gdansk,Poland,Lechnia Gdansk,Y
+Maciej Rybus,Poland,Poland,H,Midfielder,Lokomotiv Moscow,Moscow,Russia,Lokomotiv Moscow,N
+Piotr Zielinski,Poland,Poland,H,Midfielder,Napoli,Naples,Italy,Napoli,N
+Dawid Kownacki,Poland,Poland,H,Forward,Sampdoria,Genoa,Italy,Sampdoria,N
+Robert Lewandowski,Poland,Poland,H,Forward,Bayern Munich,Munich,Germany,Bayern Munich,N
+Arkadiusz Milik,Poland,Poland,H,Forward,Napoli,Naples,Italy,Napoli,N
+Lukasz Teodorczyk,Poland,Poland,H,Forward,Anderlecht,Anderlecht,Belgium,Anderlecht,N
+Khadim N'Diaye,Senegal,Senegal,H,Goalkeeper,Horoya AC,Conakry,Guinea,Horoya AC,N
+Abdoulaye Diallo,Senegal,Senegal,H,Goalkeeper,Rennes,Rennes,France,Rennes,N
+Alfred Gomis,Senegal,Senegal,H,Goalkeeper,Torino,Turin,Italy,Torino,N
+Kara Mbodji,Senegal,Senegal,H,Defender,Anderlecht,Anderlecht,Belgium,Anderlecht,N
+Kalidou Koulibaly,Senegal,Senegal,H,Defender,Napoli,Naples,Italy,Napoli,N
+Moussa Wague,Senegal,Senegal,H,Defender,Eupen,Eupen,Belgium,Eupen,N
+Saliou Ciss,Senegal,Senegal,H,Defender,Angers,Angers,France,Angers,N
+Youssouf Sabaly,Senegal,Senegal,H,Defender,Bordeaux,Bordeaux,France,Bordeaux,N
+Lamine Gassama,Senegal,Senegal,H,Defender,Alanyaspor,Alanya,Turkey,Alanyaspor,N
+Badou Ndiaye,Senegal,Senegal,H,Midfielder,Stoke City,Stoke-on-Trent,UK,Stoke,N
+Idrissa Gueye,Senegal,Senegal,H,Midfielder,Everton,Liverpool,UK,Everton,N
+Cheikhou Kouyate,Senegal,Senegal,H,Midfielder,West Ham,London,UK,West Ham,N
+Cheikh N'Doye,Senegal,Senegal,H,Midfielder,Birmingham City,Birmingham,UK,Birmingham,N
+Salif Sane,Senegal,Senegal,H,Midfielder,Hannover 96,Hannover,Germany,Hannover 96,N
+Alfred N'Diaye,Senegal,Senegal,H,Midfielder,Villarreal,Villarreal,Spain,Villarreal,N
+Moussa Sow,Senegal,Senegal,H,Forward,Bursaspor,Bursa,Turkey,Bursaspor,N
+Sadio Mane,Senegal,Senegal,H,Forward,Liverpool,Liverpool,UK,Liverpool,N
+Keita Balde Diao,Senegal,Senegal,H,Forward,Monaco,Monaco,Monaco,Monaco,N
+Moussa Konate,Senegal,Senegal,H,Forward,Amiens,Amiens,France,Amiens,N
+Ismaila Sarr,Senegal,Senegal,H,Forward,Rennes,Rennes,France,Rennes,N
+Diafra Sakho,Senegal,Senegal,H,Forward,Rennes,Rennes,France,Rennes,N
+Mame Biram Diouf,Senegal,Senegal,H,Forward,Stoke City,Stoke-on-Trent,UK,Stoke,N
+M'Baye Niang,Senegal,Senegal,H,Forward,AC Milan,Milan,Italy,AC Milan,N
+David Ospina,Colombia,Colombia,H,Goalkeeper,Arsenal,London,UK,Arsenal,N
+Camilo Vargas,Colombia,Colombia,H,Goalkeeper,Deportivo Cali,Cali,Colombia,Deportivo Cali,Y
+Jose Fernando Cuadrado,Colombia,Colombia,H,Goalkeeper,Once Caldas,Manizales,Colombia,Once Caldas,Y
+Cristian Zapata,Colombia,Colombia,H,Defender,AC Milan,Milan,Italy,Milan,N
+Davinson Sanchez,Colombia,Colombia,H,Defender,Tottenham Hotspur,London,UK,Tottenham,N
+Santiago Arias,Colombia,Colombia,H,Defender,PSV Eindhoven,Eindhoven,Netherlands,PSV Eindhoven,N
+Oscar Murillo,Colombia,Colombia,H,Defender,Pachuca,Pachuca,Mexico,Pachuca,N
+Frank Fabra,Colombia,Colombia,H,Defender,Boca Juniors,Buenos Aires,Argentina,Boca Juniors,N
+Johan Mojica,Colombia,Colombia,H,Defender,Girona,Girona,Spain,Girona,N
+Yerry Mina,Colombia,Colombia,H,Defender,Barcelona,Barcelona,Spain,Barcelona,N
+Wílmar Barrios,Colombia,Colombia,H,Midfielder,Boca Juniors,Buenos Aires,Argentina,Boca Juniors,N
+Carlos Sanchez,Colombia,Colombia,H,Midfielder,Espanyol,Barcelona,Spain,Espanyol,N
+Jefferson Lerma,Colombia,Colombia,H,Midfielder,Levante,Valencia,Spain,Levante,N
+Jose Izquierdo,Colombia,Colombia,H,Midfielder,Brighton,Brighton,UK,Brighton,N
+James Rodriguez,Colombia,Colombia,H,Midfielder,Bayern Munich,Munich,Germany,Bayern Munich,N
+Abel Aguilar,Colombia,Colombia,H,Midfielder,Deportivo Cali,Cali,Colombia,Deportivo Cali,Y
+Mateus Uribe,Colombia,Colombia,H,Midfielder,America,Mexico City,Mexico,America,N
+Juan Fernando Quintero,Colombia,Colombia,H,Midfielder,River Plate,Buenos Aires,Argentina,River Plate,N
+Juan Cuadrado,Colombia,Colombia,H,Midfielder,Juventus,Turin,Italy,Juventus,N
+Radamel Falcao,Colombia,Colombia,H,Forward,Monaco,Monaco,Monaco,Monaco,N
+Miguel Borja,Colombia,Colombia,H,Forward,Palmeiras,Sao Paulo,Brazil,Palmeiras,N
+Carlos Bacca,Colombia,Colombia,H,Forward,Villarreal,Villarreal,Spain,Villarreal,N
+Luis Fernando Muriel,Colombia,Colombia,H,Forward,Sevilla,Seville,Spain,Sevilla,N
+Eiji Kawashima,Japan,Japan,H,Goalkeeper,Metz,Metz,France,Metz,N
+Masaaki Higashiguchi,Japan,Japan,H,Goalkeeper,Gamba Osaka,Osaka,Japan,Gamba Osaka,Y
+Kosuke Nakamura,Japan,Japan,H,Goalkeeper,Kashiwa Reysol,Kashiwa,Japan,Kashiwa Reysol,Y
+Yuto Nagatomo,Japan,Japan,H,Defender,Galatasaray,Istanbul,Turkey,Galatasaray,N
+Tomoaki Makino,Japan,Japan,H,Defender,Urawa Reds,Saitama,Japan,Urawa Reds,Y
+Wataru Endo,Japan,Japan,H,Defender,Urawa Reds,Saitama,Japan,Urawa Reds,Y
+Maya Yoshida,Japan,Japan,H,Defender,Southampton,Southampton,UK,Southampton,N
+Hiroki Sakai,Japan,Japan,H,Defender,Marseille,Marseille,France,Marseille,N
+Gotoku Sakai,Japan,Japan,H,Defender,Hamburg,Hamburg,Germany,Hamburg,N
+Gen Shoji,Japan,Japan,H,Defender,Kashima Antlers,Kashima,Japan,Kashima Antlers,Y
+Naomichi Ueda,Japan,Japan,H,Defender,Kashima Antlers,Kashima,Japan,Kashima Antlers,Y
+Makoto Hasebe,Japan,Japan,H,Midfielder,Eintracht Frankfurt,Frankfurt,Germany,Eintracht Frankfurt,N
+Keisuke Honda,Japan,Japan,H,Midfielder,Pachuca,Pachuca,Mexico,Pachuca,N
+Takashi Inui,Japan,Japan,H,Midfielder,Eibar,Eibar,Spain,Eibar,N
+Shinji Kagawa,Japan,Japan,H,Midfielder,Borussia Dortmund,Dortmund,Germany,Dortmund,N
+Hotaru Yamaguchi,Japan,Japan,H,Midfielder,Cerezo Osaka,Osaka,Japan,Cerezo Osaka,Y
+Genki Haraguchi,Japan,Japan,H,Midfielder,Hertha Berlin,Berlin,Germany,Hertha Berlin,N
+Takashi Usami,Japan,Japan,H,Midfielder,FC Augsburg,Augsburg,Germany,Augsburg,N
+Gaku Shibasaki,Japan,Japan,H,Midfielder,Getafe,Madrid,Spain,Getafe,N
+Ryota Oshima,Japan,Japan,H,Midfielder,Kawasaki Frontale,Kawasaki,Japan,Kawasaki Frontale,Y
+Shinji Okazaki,Japan,Japan,H,Forward,Leicester City,Leicester,UK,Leicester,N
+Yuya Osako,Japan,Japan,H,Forward,Werder Bremen,Bremen,Germany,Werder Bremen,N
+Yoshinori Muto,Japan,Japan,H,Forward,Mainz,Mainz,Germany,Mainz,N
