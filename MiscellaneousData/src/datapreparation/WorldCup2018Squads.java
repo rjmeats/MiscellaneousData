@@ -11,6 +11,7 @@ import java.util.Map;
 import java.util.regex.*;
 import java.util.stream.Collectors;
 
+import footballEntities.*;
 import utils.CSV;
 import utils.FileWriter;
 
@@ -148,8 +149,8 @@ class FileReader {
 	List<Team> m_teams;
 	List<Player> m_players;
 	
-	HashMap<String, TeamName> m_teamNameMap;
-	HashMap<String, Position> m_positionNameMap;
+	HashMap<String, InternationalTeam> m_teamNameMap;
+	HashMap<String, PlayerPosition> m_positionNameMap;
 	HashMap<String, Integer> m_clubs;	
 
 	String m_filePath;
@@ -158,17 +159,17 @@ class FileReader {
 		m_teams = new ArrayList<>();
 		m_players = new ArrayList<>();		
 		m_teamNameMap = new HashMap<>();
-		for(TeamName tn : TeamName.values()) {
+		for(InternationalTeam tn : InternationalTeam.values()) {
 			m_teamNameMap.put(tn.m_name, tn);
 		}
 		
 		m_positionNameMap = new HashMap<>();
-		m_positionNameMap.put("Goalkeepers", Position.Goalkeeper);
-		m_positionNameMap.put("Defenders", Position.Defender);
-		m_positionNameMap.put("Midfielders", Position.Midfielder);
-		m_positionNameMap.put("Forwards", Position.Forward);
-		m_positionNameMap.put("Strikers", Position.Forward);
-		m_positionNameMap.put("Attackers", Position.Forward);
+		m_positionNameMap.put("Goalkeepers", PlayerPosition.Goalkeeper);
+		m_positionNameMap.put("Defenders", PlayerPosition.Defender);
+		m_positionNameMap.put("Midfielders", PlayerPosition.Midfielder);
+		m_positionNameMap.put("Forwards", PlayerPosition.Forward);
+		m_positionNameMap.put("Strikers", PlayerPosition.Forward);
+		m_positionNameMap.put("Attackers", PlayerPosition.Forward);
 		
 		m_clubs = new HashMap<>();
 		
@@ -245,7 +246,7 @@ class FileReader {
 	// Egypt (final 23 to be confirmed)
 	boolean processCountryLine(String line) {
 		String adjustedLine = line.replace("(final 23 to be confirmed)", "").replace("(final 23 to be named)", "").trim();
-		TeamName tn = m_teamNameMap.get(adjustedLine);
+		InternationalTeam tn = m_teamNameMap.get(adjustedLine);
 		if(tn != null) {
 			Team t = new Team(tn);
 			t.setGroup(m_currentGroup);
@@ -268,7 +269,7 @@ class FileReader {
 		
 		Matcher m = s_positionLinePattern.matcher(line);
 		if(m.matches()) {
-			Position pos = m_positionNameMap.get(m.group(1));
+			PlayerPosition pos = m_positionNameMap.get(m.group(1));
 			if(pos != null) {
 				List<Player> playersWithNoClubName = new ArrayList<>();
 				// Split on ")," or ");" or just ")" or ", " or "; "
@@ -314,7 +315,7 @@ class FileReader {
 	
 	// Carlos Bacca (Villarreal)
 	static Pattern s_playerPattern = Pattern.compile("(.+?)(?:\\s+\\((.*)\\))?");
-	Player processPlayerString(Position position, String playerString) {
+	Player processPlayerString(PlayerPosition position, String playerString) {
 		Player player = null;
 		Matcher m = s_playerPattern.matcher(playerString);
 		if(m.matches()) {
@@ -357,11 +358,11 @@ class Player {
 	String m_playerName;
 	Team m_team;
 	String m_group;
-	Position m_position;
+	PlayerPosition m_position;
 	String m_clubName;
 	FootballClub m_club;
 	
-	Player(String playerName, Team team, String group, Position position) {
+	Player(String playerName, Team team, String group, PlayerPosition position) {
 		m_playerName = playerName;
 		m_team = team;
 		m_group = group;
@@ -392,7 +393,7 @@ class Player {
 	
 	public boolean clubInTeamCountry() {
 		FootballClub c = m_club == null ? FootballClub.DummyClub : m_club; 
-		return m_team.getGeoCountryName().equalsIgnoreCase(c.m_geoCountryName);
+		return m_team.getGeoCountryName().equalsIgnoreCase(c.getGeoCountry());
 	}
 	
 	public String toString() {
@@ -422,9 +423,9 @@ class Player {
 				CSV.protect(m_team.getGeoCountryName()) + comma +
 				m_group + comma +
 				m_position.name() + comma +
-				CSV.protect(c.m_clubName) + comma +
-				CSV.protect(c.m_town) + comma + 
-				CSV.protect(c.m_geoCountryName) + comma +
+				CSV.protect(c.getClubName()) + comma +
+				CSV.protect(c.getTown()) + comma + 
+				CSV.protect(c.getGeoCountry()) + comma +
 				CSV.protect(m_clubName) + comma +
 				(clubInTeamCountry() ? "Y" : "N");
 	}
@@ -433,12 +434,12 @@ class Player {
 
 class Team {
 
-	TeamName m_teamName;
+	InternationalTeam m_teamName;
 	String m_group;
 	List<Player> m_players;
 	boolean m_isFinal;
 	
-	Team(TeamName teamName) {
+	Team(InternationalTeam teamName) {
 		m_teamName = teamName;
 		m_group = null;
 		m_players = new ArrayList<>();
@@ -472,63 +473,6 @@ class Team {
 	int playerCount() {
 		return m_players.size();
 	}
-}
-
-enum TeamName {
-	
-	Russia,
-	Saudi_Arabia,
-	Egypt,
-	Uruguay,
-	Portugal,
-	Spain,
-	Morocco,
-	Iran,
-	France,
-	Australia,
-	Peru,
-	Denmark,
-	Argentina,
-	Iceland,
-	Croatia,
-	Nigeria,
-	Brazil,
-	Switzerland,
-	Costa_Rica,
-	Serbia,
-	Germany,
-	Mexico,
-	Sweden,
-	South_Korea,
-	Belgium,
-	Panama,
-	Tunisia,
-	England("England", "UK"),		// NB Tableau doesn't know England as a country
-	Poland,
-	Senegal,
-	Colombia,
-	Japan;
-
-	String m_name;
-	String m_geoCountryName;
-	
-	TeamName() {
-		m_name = name().replaceAll("_",  " ");
-		m_geoCountryName = m_name;
-	}
-	
-	TeamName(String name, String geoCountryName) {
-		m_name = name;
-		m_geoCountryName = geoCountryName;
-	}
-	
-	public String toString() {
-		return m_name;
-	}	
-}
-
-enum Position {
-	Goalkeeper, Defender, Midfielder, Forward;
 }
 
 // http://www.fifa.com/worldcup/teams/index.html

@@ -1,4 +1,4 @@
-package datapreparation;
+package footballEntities;
 
 import java.util.HashMap;
 import java.util.HashSet;
@@ -425,10 +425,10 @@ public enum FootballClub {
 	DummyClub("DummyClub", "DummyTown", "DummyCountry");
 	;
 	
-	String m_clubName;
-	String m_possibleShortName;
-	String m_town;
-	String m_geoCountryName;
+	private String m_clubName;
+	private String m_possibleShortName;
+	private String m_town;
+	private String m_geoCountryName;
 	
 	FootballClub(String country) {
 		m_clubName = name().replaceAll("_",  " ");
@@ -457,14 +457,22 @@ public enum FootballClub {
 		m_geoCountryName = country;				
 	}
 	
-	String getClubName() {
+	public String getClubName() {
 		return m_clubName;
+	}
+	
+	public String getTown() {
+		return m_town;
+	}
+	
+	public String getGeoCountry() {
+		return m_geoCountryName;
 	}
 	
 	private static HashMap<String, FootballClub> s_nameMappings = new HashMap<>();
 	private static Set<String> s_conflictNames = new HashSet<>();
 	
-	static void setUpMappings() {
+	public static void setUpMappings() {
 		s_nameMappings = new HashMap<>();
 		s_conflictNames = new HashSet<>();
 		for(FootballClub c : FootballClub.values()) {
