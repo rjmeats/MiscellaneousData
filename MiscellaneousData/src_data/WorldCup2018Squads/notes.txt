@@ -5,3 +5,6 @@ Squads originally from BBC web site
 
 5/6/2018 Used Tableau import PDF / Union tables / export as CSV to produce FIFA_tables_from_PDF.csv
 Needs further work to put into proper fields, but now more readily processed than as PDF format.
+
+21/06/2018 Checked original link, doesn't work any more, the data is now at https://img.fifa.com/image/upload/hzfqyndmnqazczvc5xdb.pdf,
+possibly slightly modified by Fifa ?
