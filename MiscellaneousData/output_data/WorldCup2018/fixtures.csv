@@ -1,52 +1,52 @@
 Round,Group,Full round,Day of week,Date,Time (BST),Real Teams,Team1,Team2,Location,Match ID
-Group,A,Group A,Thu,14/06/2018,16:00,Y,Russia,Saudi Arabia,Moscow (Luzhniki),-
-Group,A,Group A,Fri,15/06/2018,13:00,Y,Egypt,Uruguay,Ekaterinburg,-
-Group,B,Group B,Fri,15/06/2018,16:00,Y,Morocco,Iran,St Petersburg,-
-Group,B,Group B,Fri,15/06/2018,19:00,Y,Portugal,Spain,Sochi,-
-Group,C,Group C,Sat,16/06/2018,11:00,Y,France,Australia,Kazan,-
-Group,D,Group D,Sat,16/06/2018,14:00,Y,Argentina,Iceland,Moscow (Spartak),-
-Group,C,Group C,Sat,16/06/2018,17:00,Y,Peru,Denmark,Saransk,-
-Group,D,Group D,Sat,16/06/2018,20:00,Y,Croatia,Nigeria,Kaliningrad,-
-Group,E,Group E,Sun,17/06/2018,13:00,Y,Costa Rica,Serbia,Samara,-
-Group,F,Group F,Sun,17/06/2018,16:00,Y,Germany,Mexico,Moscow (Luzhniki),-
-Group,E,Group E,Sun,17/06/2018,19:00,Y,Brazil,Switzerland,Rostov-on-Don,-
-Group,F,Group F,Mon,18/06/2018,13:00,Y,Sweden,South Korea,Nizhny Novgorod,-
-Group,G,Group G,Mon,18/06/2018,16:00,Y,Belgium,Panama,Sochi,-
-Group,G,Group G,Mon,18/06/2018,19:00,Y,Tunisia,England,Volgograd,-
-Group,H,Group H,Tue,19/06/2018,13:00,Y,Colombia,Japan,Saransk,-
-Group,H,Group H,Tue,19/06/2018,16:00,Y,Poland,Senegal,Moscow (Spartak),-
-Group,A,Group A,Tue,19/06/2018,19:00,Y,Russia,Egypt,St Petersburg,-
-Group,B,Group B,Wed,20/06/2018,13:00,Y,Portugal,Morocco,Moscow (Luzhniki),-
-Group,A,Group A,Wed,20/06/2018,16:00,Y,Uruguay,Saudi Arabia,Rostov-on-Don,-
-Group,B,Group B,Wed,20/06/2018,19:00,Y,Iran,Spain,Kazan,-
-Group,C,Group C,Thu,21/06/2018,13:00,Y,Denmark,Australia,Samara,-
-Group,C,Group C,Thu,21/06/2018,16:00,Y,France,Peru,Ekaterinburg,-
-Group,D,Group D,Thu,21/06/2018,19:00,Y,Argentina,Croatia,Nizhny Novgorod,-
-Group,E,Group E,Fri,22/06/2018,13:00,Y,Brazil,Costa Rica,St Petersburg,-
-Group,D,Group D,Fri,22/06/2018,16:00,Y,Nigeria,Iceland,Volgograd,-
-Group,E,Group E,Fri,22/06/2018,19:00,Y,Serbia,Switzerland,Kaliningrad,-
-Group,G,Group G,Sat,23/06/2018,13:00,Y,Belgium,Tunisia,Moscow (Spartak),-
-Group,F,Group F,Sat,23/06/2018,16:00,Y,South Korea,Mexico,Rostov-on-Don,-
-Group,F,Group F,Sat,23/06/2018,19:00,Y,Germany,Sweden,Sochi,-
-Group,G,Group G,Sun,24/06/2018,13:00,Y,England,Panama,Nizhny Novgorod,-
-Group,H,Group H,Sun,24/06/2018,16:00,Y,Japan,Senegal,Ekaterinburg,-
-Group,H,Group H,Sun,24/06/2018,19:00,Y,Poland,Colombia,Kazan,-
-Group,A,Group A,Mon,25/06/2018,15:00,Y,Uruguay,Russia,Samara,-
-Group,A,Group A,Mon,25/06/2018,15:00,Y,Saudi Arabia,Egypt,Volgograd,-
-Group,B,Group B,Mon,25/06/2018,19:00,Y,Spain,Morocco,Kaliningrad,-
-Group,B,Group B,Mon,25/06/2018,19:00,Y,Iran,Portugal,Saransk,-
-Group,C,Group C,Tue,26/06/2018,15:00,Y,Denmark,France,Moscow (Luzhniki),-
-Group,C,Group C,Tue,26/06/2018,15:00,Y,Australia,Peru,Sochi,-
-Group,D,Group D,Tue,26/06/2018,19:00,Y,Nigeria,Argentina,St Petersburg,-
-Group,D,Group D,Tue,26/06/2018,19:00,Y,Iceland,Croatia,Rostov-on-Don,-
-Group,F,Group F,Wed,27/06/2018,15:00,Y,South Korea,Germany,Kazan,-
-Group,F,Group F,Wed,27/06/2018,15:00,Y,Mexico,Sweden,Ekaterinburg,-
-Group,E,Group E,Wed,27/06/2018,19:00,Y,Serbia,Brazil,Moscow (Spartak),-
-Group,E,Group E,Wed,27/06/2018,19:00,Y,Switzerland,Costa Rica,Nizhny Novgorod,-
-Group,H,Group H,Thu,28/06/2018,15:00,Y,Japan,Poland,Volgograd,-
-Group,H,Group H,Thu,28/06/2018,15:00,Y,Senegal,Colombia,Samara,-
-Group,G,Group G,Thu,28/06/2018,19:00,Y,England,Belgium,Kaliningrad,-
-Group,G,Group G,Thu,28/06/2018,19:00,Y,Panama,Tunisia,Saransk,-
+Group,A,Group A,Thu,14/06/2018,16:00,Y,Russia,Saudi Arabia,Moscow (Luzhniki),
+Group,A,Group A,Fri,15/06/2018,13:00,Y,Egypt,Uruguay,Ekaterinburg,
+Group,B,Group B,Fri,15/06/2018,16:00,Y,Morocco,Iran,St Petersburg,
+Group,B,Group B,Fri,15/06/2018,19:00,Y,Portugal,Spain,Sochi,
+Group,C,Group C,Sat,16/06/2018,11:00,Y,France,Australia,Kazan,
+Group,D,Group D,Sat,16/06/2018,14:00,Y,Argentina,Iceland,Moscow (Spartak),
+Group,C,Group C,Sat,16/06/2018,17:00,Y,Peru,Denmark,Saransk,
+Group,D,Group D,Sat,16/06/2018,20:00,Y,Croatia,Nigeria,Kaliningrad,
+Group,E,Group E,Sun,17/06/2018,13:00,Y,Costa Rica,Serbia,Samara,
+Group,F,Group F,Sun,17/06/2018,16:00,Y,Germany,Mexico,Moscow (Luzhniki),
+Group,E,Group E,Sun,17/06/2018,19:00,Y,Brazil,Switzerland,Rostov-on-Don,
+Group,F,Group F,Mon,18/06/2018,13:00,Y,Sweden,South Korea,Nizhny Novgorod,
+Group,G,Group G,Mon,18/06/2018,16:00,Y,Belgium,Panama,Sochi,
+Group,G,Group G,Mon,18/06/2018,19:00,Y,Tunisia,England,Volgograd,
+Group,H,Group H,Tue,19/06/2018,13:00,Y,Colombia,Japan,Saransk,
+Group,H,Group H,Tue,19/06/2018,16:00,Y,Poland,Senegal,Moscow (Spartak),
+Group,A,Group A,Tue,19/06/2018,19:00,Y,Russia,Egypt,St Petersburg,
+Group,B,Group B,Wed,20/06/2018,13:00,Y,Portugal,Morocco,Moscow (Luzhniki),
+Group,A,Group A,Wed,20/06/2018,16:00,Y,Uruguay,Saudi Arabia,Rostov-on-Don,
+Group,B,Group B,Wed,20/06/2018,19:00,Y,Iran,Spain,Kazan,
+Group,C,Group C,Thu,21/06/2018,13:00,Y,Denmark,Australia,Samara,
+Group,C,Group C,Thu,21/06/2018,16:00,Y,France,Peru,Ekaterinburg,
+Group,D,Group D,Thu,21/06/2018,19:00,Y,Argentina,Croatia,Nizhny Novgorod,
+Group,E,Group E,Fri,22/06/2018,13:00,Y,Brazil,Costa Rica,St Petersburg,
+Group,D,Group D,Fri,22/06/2018,16:00,Y,Nigeria,Iceland,Volgograd,
+Group,E,Group E,Fri,22/06/2018,19:00,Y,Serbia,Switzerland,Kaliningrad,
+Group,G,Group G,Sat,23/06/2018,13:00,Y,Belgium,Tunisia,Moscow (Spartak),
+Group,F,Group F,Sat,23/06/2018,16:00,Y,South Korea,Mexico,Rostov-on-Don,
+Group,F,Group F,Sat,23/06/2018,19:00,Y,Germany,Sweden,Sochi,
+Group,G,Group G,Sun,24/06/2018,13:00,Y,England,Panama,Nizhny Novgorod,
+Group,H,Group H,Sun,24/06/2018,16:00,Y,Japan,Senegal,Ekaterinburg,
+Group,H,Group H,Sun,24/06/2018,19:00,Y,Poland,Colombia,Kazan,
+Group,A,Group A,Mon,25/06/2018,15:00,Y,Uruguay,Russia,Samara,
+Group,A,Group A,Mon,25/06/2018,15:00,Y,Saudi Arabia,Egypt,Volgograd,
+Group,B,Group B,Mon,25/06/2018,19:00,Y,Spain,Morocco,Kaliningrad,
+Group,B,Group B,Mon,25/06/2018,19:00,Y,Iran,Portugal,Saransk,
+Group,C,Group C,Tue,26/06/2018,15:00,Y,Denmark,France,Moscow (Luzhniki),
+Group,C,Group C,Tue,26/06/2018,15:00,Y,Australia,Peru,Sochi,
+Group,D,Group D,Tue,26/06/2018,19:00,Y,Nigeria,Argentina,St Petersburg,
+Group,D,Group D,Tue,26/06/2018,19:00,Y,Iceland,Croatia,Rostov-on-Don,
+Group,F,Group F,Wed,27/06/2018,15:00,Y,South Korea,Germany,Kazan,
+Group,F,Group F,Wed,27/06/2018,15:00,Y,Mexico,Sweden,Ekaterinburg,
+Group,E,Group E,Wed,27/06/2018,19:00,Y,Serbia,Brazil,Moscow (Spartak),
+Group,E,Group E,Wed,27/06/2018,19:00,Y,Switzerland,Costa Rica,Nizhny Novgorod,
+Group,H,Group H,Thu,28/06/2018,15:00,Y,Japan,Poland,Volgograd,
+Group,H,Group H,Thu,28/06/2018,15:00,Y,Senegal,Colombia,Samara,
+Group,G,Group G,Thu,28/06/2018,19:00,Y,England,Belgium,Kaliningrad,
+Group,G,Group G,Thu,28/06/2018,19:00,Y,Panama,Tunisia,Saransk,
 Last16,,Last16,Sat,30/06/2018,15:00,N,1C,2D,Kazan,Match 50
 Last16,,Last16,Sat,30/06/2018,19:00,N,1A,2B,Sochi,Match 49
 Last16,,Last16,Sun,01/07/2018,15:00,N,1B,2A,Moscow (Luzhniki),Match 51
